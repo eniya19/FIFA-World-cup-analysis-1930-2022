@@ -1,0 +1,189 @@
+tournament_id,tournament_name,match_id,stage_name,match_date,home_team_name,away_team_name,home_team_score,away_team_score,goal_difference,result,dominant_win,close_match
+WC-1930,1930 FIFA Men's World Cup,M-1930-09,group stage,1930-07-18,Uruguay,Peru,1,0,1,Win,False,True
+WC-1930,1930 FIFA Men's World Cup,M-1930-14,group stage,1930-07-21,Uruguay,Romania,4,0,4,Win,True,False
+WC-1930,1930 FIFA Men's World Cup,M-1930-17,semi-finals,1930-07-27,Uruguay,Yugoslavia,6,1,5,Win,True,False
+WC-1930,1930 FIFA Men's World Cup,M-1930-18,final,1930-07-30,Uruguay,Argentina,4,2,2,Win,False,False
+WC-1934,1934 FIFA Men's World Cup,M-1934-05,round of 16,1934-05-27,Italy,United States,7,1,6,Win,True,False
+WC-1934,1934 FIFA Men's World Cup,M-1934-12,quarter-finals,1934-05-31,Italy,Spain,1,1,0,Draw,False,False
+WC-1934,1934 FIFA Men's World Cup,M-1934-13,quarter-finals,1934-06-01,Italy,Spain,1,0,1,Win,False,True
+WC-1934,1934 FIFA Men's World Cup,M-1934-15,semi-finals,1934-06-03,Italy,Austria,1,0,1,Win,False,True
+WC-1934,1934 FIFA Men's World Cup,M-1934-17,final,1934-06-10,Italy,Czechoslovakia,2,1,1,Win,False,True
+WC-1938,1938 FIFA Men's World Cup,M-1938-05,round of 16,1938-06-05,Italy,Norway,2,1,1,Win,False,True
+WC-1938,1938 FIFA Men's World Cup,M-1938-12,quarter-finals,1938-06-12,Italy,France,3,1,2,Win,False,False
+WC-1938,1938 FIFA Men's World Cup,M-1938-16,semi-finals,1938-06-16,Italy,Brazil,2,1,1,Win,False,True
+WC-1938,1938 FIFA Men's World Cup,M-1938-18,final,1938-06-19,Italy,Hungary,4,2,2,Win,False,False
+WC-1950,1950 FIFA Men's World Cup,M-1950-15,group stage,1950-07-02,Uruguay,Bolivia,8,0,8,Win,True,False
+WC-1950,1950 FIFA Men's World Cup,M-1950-18,final round,1950-07-09,Uruguay,Spain,2,2,0,Draw,False,False
+WC-1950,1950 FIFA Men's World Cup,M-1950-20,final round,1950-07-13,Uruguay,Sweden,3,2,1,Win,False,True
+WC-1950,1950 FIFA Men's World Cup,M-1950-22,final round,1950-07-16,Uruguay,Brazil,2,1,1,Win,False,True
+WC-1954,1954 FIFA Men's World Cup,M-1954-07,group stage,1954-06-17,West Germany,Turkey,4,1,3,Win,True,False
+WC-1954,1954 FIFA Men's World Cup,M-1954-13,group stage,1954-06-20,Hungary,West Germany,8,3,5,Loss,True,False
+WC-1954,1954 FIFA Men's World Cup,M-1954-17,group stage,1954-06-23,West Germany,Turkey,7,2,5,Win,True,False
+WC-1954,1954 FIFA Men's World Cup,M-1954-22,quarter-finals,1954-06-27,West Germany,Yugoslavia,2,0,2,Win,False,False
+WC-1954,1954 FIFA Men's World Cup,M-1954-24,semi-finals,1954-06-30,West Germany,Austria,6,1,5,Win,True,False
+WC-1954,1954 FIFA Men's World Cup,M-1954-26,final,1954-07-04,West Germany,Hungary,3,2,1,Win,False,True
+WC-1958,1958 FIFA Men's World Cup,M-1958-07,group stage,1958-06-08,Brazil,Austria,3,0,3,Win,True,False
+WC-1958,1958 FIFA Men's World Cup,M-1958-14,group stage,1958-06-11,Brazil,England,0,0,0,Draw,False,False
+WC-1958,1958 FIFA Men's World Cup,M-1958-23,group stage,1958-06-15,Brazil,Soviet Union,2,0,2,Win,False,False
+WC-1958,1958 FIFA Men's World Cup,M-1958-28,quarter-finals,1958-06-19,Brazil,Wales,1,0,1,Win,False,True
+WC-1958,1958 FIFA Men's World Cup,M-1958-32,semi-finals,1958-06-24,Brazil,France,5,2,3,Win,True,False
+WC-1958,1958 FIFA Men's World Cup,M-1958-35,final,1958-06-29,Brazil,Sweden,5,2,3,Win,True,False
+WC-1962,1962 FIFA Men's World Cup,M-1962-03,group stage,1962-05-30,Brazil,Mexico,2,0,2,Win,False,False
+WC-1962,1962 FIFA Men's World Cup,M-1962-11,group stage,1962-06-02,Brazil,Czechoslovakia,0,0,0,Draw,False,False
+WC-1962,1962 FIFA Men's World Cup,M-1962-19,group stage,1962-06-06,Brazil,Spain,2,1,1,Win,False,True
+WC-1962,1962 FIFA Men's World Cup,M-1962-25,quarter-finals,1962-06-10,Brazil,England,3,1,2,Win,False,False
+WC-1962,1962 FIFA Men's World Cup,M-1962-29,semi-finals,1962-06-13,Brazil,Chile,4,2,2,Win,False,False
+WC-1962,1962 FIFA Men's World Cup,M-1962-32,final,1962-06-17,Brazil,Czechoslovakia,3,1,2,Win,False,False
+WC-1966,1966 FIFA Men's World Cup,M-1966-01,group stage,1966-07-11,England,Uruguay,0,0,0,Draw,False,False
+WC-1966,1966 FIFA Men's World Cup,M-1966-16,group stage,1966-07-16,England,Mexico,2,0,2,Win,False,False
+WC-1966,1966 FIFA Men's World Cup,M-1966-21,group stage,1966-07-20,England,France,2,0,2,Win,False,False
+WC-1966,1966 FIFA Men's World Cup,M-1966-25,quarter-finals,1966-07-23,England,Argentina,1,0,1,Win,False,True
+WC-1966,1966 FIFA Men's World Cup,M-1966-30,semi-finals,1966-07-26,England,Portugal,2,1,1,Win,False,True
+WC-1966,1966 FIFA Men's World Cup,M-1966-32,final,1966-07-30,England,West Germany,4,2,2,Win,False,False
+WC-1970,1970 FIFA Men's World Cup,M-1970-07,group stage,1970-06-03,Brazil,Czechoslovakia,4,1,3,Win,True,False
+WC-1970,1970 FIFA Men's World Cup,M-1970-15,group stage,1970-06-07,Brazil,England,1,0,1,Win,False,True
+WC-1970,1970 FIFA Men's World Cup,M-1970-19,group stage,1970-06-10,Brazil,Romania,3,2,1,Win,False,True
+WC-1970,1970 FIFA Men's World Cup,M-1970-25,quarter-finals,1970-06-14,Brazil,Peru,4,2,2,Win,False,False
+WC-1970,1970 FIFA Men's World Cup,M-1970-29,semi-finals,1970-06-17,Brazil,Uruguay,3,1,2,Win,False,False
+WC-1970,1970 FIFA Men's World Cup,M-1970-32,final,1970-06-21,Brazil,Italy,4,1,3,Win,True,False
+WC-1974,1974 FIFA Men's World Cup,M-1974-02,group stage,1974-06-14,West Germany,Chile,1,0,1,Win,False,True
+WC-1974,1974 FIFA Men's World Cup,M-1974-09,group stage,1974-06-18,Australia,West Germany,0,3,3,Win,True,False
+WC-1974,1974 FIFA Men's World Cup,M-1974-20,group stage,1974-06-22,East Germany,West Germany,1,0,1,Loss,False,True
+WC-1974,1974 FIFA Men's World Cup,M-1974-25,second group stage,1974-06-26,Yugoslavia,West Germany,0,2,2,Win,False,False
+WC-1974,1974 FIFA Men's World Cup,M-1974-32,second group stage,1974-06-30,West Germany,Sweden,4,2,2,Win,False,False
+WC-1974,1974 FIFA Men's World Cup,M-1974-33,second group stage,1974-07-03,Poland,West Germany,0,1,1,Win,False,True
+WC-1974,1974 FIFA Men's World Cup,M-1974-38,final,1974-07-07,Netherlands,West Germany,1,2,1,Win,False,True
+WC-1978,1978 FIFA Men's World Cup,M-1978-04,group stage,1978-06-02,Argentina,Hungary,2,1,1,Win,False,True
+WC-1978,1978 FIFA Men's World Cup,M-1978-12,group stage,1978-06-06,Argentina,France,2,1,1,Win,False,True
+WC-1978,1978 FIFA Men's World Cup,M-1978-20,group stage,1978-06-10,Argentina,Italy,0,1,1,Loss,False,True
+WC-1978,1978 FIFA Men's World Cup,M-1978-28,second group stage,1978-06-14,Argentina,Poland,2,0,2,Win,False,False
+WC-1978,1978 FIFA Men's World Cup,M-1978-32,second group stage,1978-06-18,Argentina,Brazil,0,0,0,Draw,False,False
+WC-1978,1978 FIFA Men's World Cup,M-1978-36,second group stage,1978-06-21,Argentina,Peru,6,0,6,Win,True,False
+WC-1978,1978 FIFA Men's World Cup,M-1978-38,final,1978-06-25,Argentina,Netherlands,3,1,2,Win,False,False
+WC-1982,1982 FIFA Men's World Cup,M-1982-02,group stage,1982-06-14,Italy,Poland,0,0,0,Draw,False,False
+WC-1982,1982 FIFA Men's World Cup,M-1982-13,group stage,1982-06-18,Italy,Peru,1,1,0,Draw,False,False
+WC-1982,1982 FIFA Men's World Cup,M-1982-28,group stage,1982-06-23,Italy,Cameroon,1,1,0,Draw,False,False
+WC-1982,1982 FIFA Men's World Cup,M-1982-39,second group stage,1982-06-29,Italy,Argentina,2,1,1,Win,False,True
+WC-1982,1982 FIFA Men's World Cup,M-1982-47,second group stage,1982-07-05,Italy,Brazil,3,2,1,Win,False,True
+WC-1982,1982 FIFA Men's World Cup,M-1982-49,semi-finals,1982-07-08,Poland,Italy,0,2,2,Win,False,False
+WC-1982,1982 FIFA Men's World Cup,M-1982-52,final,1982-07-11,Italy,West Germany,3,1,2,Win,False,False
+WC-1986,1986 FIFA Men's World Cup,M-1986-04,group stage,1986-06-02,Argentina,South Korea,3,1,2,Win,False,False
+WC-1986,1986 FIFA Men's World Cup,M-1986-13,group stage,1986-06-05,Italy,Argentina,1,1,0,Draw,False,False
+WC-1986,1986 FIFA Men's World Cup,M-1986-27,group stage,1986-06-10,Argentina,Bulgaria,2,0,2,Win,False,False
+WC-1986,1986 FIFA Men's World Cup,M-1986-40,round of 16,1986-06-16,Argentina,Uruguay,1,0,1,Win,False,True
+WC-1986,1986 FIFA Men's World Cup,M-1986-47,quarter-finals,1986-06-22,Argentina,England,2,1,1,Win,False,True
+WC-1986,1986 FIFA Men's World Cup,M-1986-50,semi-finals,1986-06-25,Argentina,Belgium,2,0,2,Win,False,False
+WC-1986,1986 FIFA Men's World Cup,M-1986-52,final,1986-06-29,Argentina,West Germany,3,2,1,Win,False,True
+WC-1990,1990 FIFA Men's World Cup,M-1990-07,group stage,1990-06-10,West Germany,Yugoslavia,4,1,3,Win,True,False
+WC-1990,1990 FIFA Men's World Cup,M-1990-18,group stage,1990-06-15,West Germany,United Arab Emirates,5,1,4,Win,True,False
+WC-1990,1990 FIFA Men's World Cup,M-1990-27,group stage,1990-06-19,West Germany,Colombia,1,1,0,Draw,False,False
+WC-1990,1990 FIFA Men's World Cup,M-1990-40,round of 16,1990-06-24,West Germany,Netherlands,2,1,1,Win,False,True
+WC-1990,1990 FIFA Men's World Cup,M-1990-47,quarter-finals,1990-07-01,Czechoslovakia,West Germany,0,1,1,Win,False,True
+WC-1990,1990 FIFA Men's World Cup,M-1990-50,semi-finals,1990-07-04,West Germany,England,1,1,0,Draw,False,False
+WC-1990,1990 FIFA Men's World Cup,M-1990-52,final,1990-07-08,West Germany,Argentina,1,0,1,Win,False,True
+WC-1991,1991 FIFA Women's World Cup,M-1991-05,group stage,1991-11-17,Sweden,United States,2,3,1,Win,False,True
+WC-1991,1991 FIFA Women's World Cup,M-1991-10,group stage,1991-11-19,Brazil,United States,0,5,5,Win,True,False
+WC-1991,1991 FIFA Women's World Cup,M-1991-14,group stage,1991-11-21,Japan,United States,0,3,3,Win,True,False
+WC-1991,1991 FIFA Women's World Cup,M-1991-22,quarter-final,1991-11-24,United States,Chinese Taipei,7,0,7,Win,True,False
+WC-1991,1991 FIFA Women's World Cup,M-1991-24,semi-final,1991-11-27,Germany,United States,2,5,3,Win,True,False
+WC-1991,1991 FIFA Women's World Cup,M-1991-26,final,1991-11-30,Norway,United States,1,2,1,Win,False,True
+WC-1994,1994 FIFA Men's World Cup,M-1994-09,group stage,1994-06-20,Brazil,Russia,2,0,2,Win,False,False
+WC-1994,1994 FIFA Men's World Cup,M-1994-19,group stage,1994-06-24,Brazil,Cameroon,3,0,3,Win,True,False
+WC-1994,1994 FIFA Men's World Cup,M-1994-32,group stage,1994-06-28,Brazil,Sweden,1,1,0,Draw,False,False
+WC-1994,1994 FIFA Men's World Cup,M-1994-42,round of 16,1994-07-04,Brazil,United States,1,0,1,Win,False,True
+WC-1994,1994 FIFA Men's World Cup,M-1994-46,quarter-finals,1994-07-09,Netherlands,Brazil,2,3,1,Win,False,True
+WC-1994,1994 FIFA Men's World Cup,M-1994-50,semi-finals,1994-07-13,Sweden,Brazil,0,1,1,Win,False,True
+WC-1994,1994 FIFA Men's World Cup,M-1994-52,final,1994-07-17,Brazil,Italy,0,0,0,Draw,False,False
+WC-1995,1995 FIFA Women's World Cup,M-1995-04,group stage,1995-06-06,Norway,Nigeria,8,0,8,Win,True,False
+WC-1995,1995 FIFA Women's World Cup,M-1995-10,group stage,1995-06-08,Norway,England,2,0,2,Win,False,False
+WC-1995,1995 FIFA Women's World Cup,M-1995-16,group stage,1995-06-10,Norway,Canada,7,0,7,Win,True,False
+WC-1995,1995 FIFA Women's World Cup,M-1995-20,quarter-final,1995-06-13,Norway,Denmark,3,1,2,Win,False,False
+WC-1995,1995 FIFA Women's World Cup,M-1995-23,semi-final,1995-06-15,United States,Norway,0,1,1,Win,False,True
+WC-1995,1995 FIFA Women's World Cup,M-1995-26,final,1995-06-18,Germany,Norway,0,2,2,Win,False,False
+WC-1998,1998 FIFA Men's World Cup,M-1998-07,group stage,1998-06-12,France,South Africa,3,0,3,Win,True,False
+WC-1998,1998 FIFA Men's World Cup,M-1998-22,group stage,1998-06-18,France,Saudi Arabia,4,0,4,Win,True,False
+WC-1998,1998 FIFA Men's World Cup,M-1998-37,group stage,1998-06-24,France,Denmark,2,1,1,Win,False,True
+WC-1998,1998 FIFA Men's World Cup,M-1998-51,round of 16,1998-06-28,France,Paraguay,1,0,1,Win,False,True
+WC-1998,1998 FIFA Men's World Cup,M-1998-57,quarter-finals,1998-07-03,Italy,France,0,0,0,Draw,False,False
+WC-1998,1998 FIFA Men's World Cup,M-1998-62,semi-finals,1998-07-08,France,Croatia,2,1,1,Win,False,True
+WC-1998,1998 FIFA Men's World Cup,M-1998-64,final,1998-07-12,Brazil,France,0,3,3,Win,True,False
+WC-1999,1999 FIFA Women's World Cup,M-1999-01,group stage,1999-06-19,United States,Denmark,3,0,3,Win,True,False
+WC-1999,1999 FIFA Women's World Cup,M-1999-15,group stage,1999-06-24,United States,Nigeria,7,1,6,Win,True,False
+WC-1999,1999 FIFA Women's World Cup,M-1999-24,group stage,1999-06-27,United States,North Korea,3,0,3,Win,True,False
+WC-1999,1999 FIFA Women's World Cup,M-1999-27,quarter-final,1999-07-01,United States,Germany,3,2,1,Win,False,True
+WC-1999,1999 FIFA Women's World Cup,M-1999-29,semi-final,1999-07-04,United States,Brazil,2,0,2,Win,False,False
+WC-1999,1999 FIFA Women's World Cup,M-1999-32,final,1999-07-10,United States,China,0,0,0,Draw,False,False
+WC-2002,2002 FIFA Men's World Cup,M-2002-10,group stage,2002-06-03,Brazil,Turkey,2,1,1,Win,False,True
+WC-2002,2002 FIFA Men's World Cup,M-2002-26,group stage,2002-06-08,Brazil,China,4,0,4,Win,True,False
+WC-2002,2002 FIFA Men's World Cup,M-2002-41,group stage,2002-06-13,Costa Rica,Brazil,2,5,3,Win,True,False
+WC-2002,2002 FIFA Men's World Cup,M-2002-54,round of 16,2002-06-17,Brazil,Belgium,2,0,2,Win,False,False
+WC-2002,2002 FIFA Men's World Cup,M-2002-57,quarter-finals,2002-06-21,England,Brazil,1,2,1,Win,False,True
+WC-2002,2002 FIFA Men's World Cup,M-2002-62,semi-finals,2002-06-26,Brazil,Turkey,1,0,1,Win,False,True
+WC-2002,2002 FIFA Men's World Cup,M-2002-64,final,2002-06-30,Germany,Brazil,0,2,2,Win,False,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-03,group stage,2003-09-20,Germany,Canada,4,1,3,Win,True,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-10,group stage,2003-09-24,Germany,Japan,3,0,3,Win,True,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-19,group stage,2003-09-27,Argentina,Germany,1,6,5,Win,True,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-27,quarter-final,2003-10-02,Germany,Russia,7,1,6,Win,True,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-29,semi-final,2003-10-05,United States,Germany,0,3,3,Win,True,False
+WC-2003,2003 FIFA Women's World Cup,M-2003-32,final,2003-10-12,Germany,Sweden,2,1,1,Win,False,True
+WC-2006,2006 FIFA Men's World Cup,M-2006-11,group stage,2006-06-12,Italy,Ghana,2,0,2,Win,False,False
+WC-2006,2006 FIFA Men's World Cup,M-2006-26,group stage,2006-06-17,Italy,United States,1,1,0,Draw,False,False
+WC-2006,2006 FIFA Men's World Cup,M-2006-41,group stage,2006-06-22,Czech Republic,Italy,0,2,2,Win,False,False
+WC-2006,2006 FIFA Men's World Cup,M-2006-53,round of 16,2006-06-26,Italy,Australia,1,0,1,Win,False,True
+WC-2006,2006 FIFA Men's World Cup,M-2006-58,quarter-finals,2006-06-30,Italy,Ukraine,3,0,3,Win,True,False
+WC-2006,2006 FIFA Men's World Cup,M-2006-61,semi-finals,2006-07-04,Germany,Italy,0,2,2,Win,False,False
+WC-2006,2006 FIFA Men's World Cup,M-2006-64,final,2006-07-09,Italy,France,1,1,0,Draw,False,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-01,group stage,2007-09-10,Germany,Argentina,11,0,11,Win,True,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-11,group stage,2007-09-14,England,Germany,0,0,0,Draw,False,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-18,group stage,2007-09-17,Germany,Japan,2,0,2,Win,False,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-25,quarter-final,2007-09-22,Germany,North Korea,3,0,3,Win,True,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-29,semi-final,2007-09-26,Germany,Norway,3,0,3,Win,True,False
+WC-2007,2007 FIFA Women's World Cup,M-2007-32,final,2007-09-30,Germany,Brazil,2,0,2,Win,False,False
+WC-2010,2010 FIFA Men's World Cup,M-2010-16,group stage,2010-06-16,Spain,Switzerland,0,1,1,Loss,False,True
+WC-2010,2010 FIFA Men's World Cup,M-2010-32,group stage,2010-06-21,Spain,Honduras,2,0,2,Win,False,False
+WC-2010,2010 FIFA Men's World Cup,M-2010-47,group stage,2010-06-25,Chile,Spain,1,2,1,Win,False,True
+WC-2010,2010 FIFA Men's World Cup,M-2010-56,round of 16,2010-06-29,Spain,Portugal,1,0,1,Win,False,True
+WC-2010,2010 FIFA Men's World Cup,M-2010-60,quarter-finals,2010-07-03,Paraguay,Spain,0,1,1,Win,False,True
+WC-2010,2010 FIFA Men's World Cup,M-2010-62,semi-finals,2010-07-07,Germany,Spain,0,1,1,Win,False,True
+WC-2010,2010 FIFA Men's World Cup,M-2010-64,final,2010-07-11,Netherlands,Spain,0,1,1,Win,False,True
+WC-2011,2011 FIFA Women's World Cup,M-2011-03,group stage,2011-06-27,Japan,New Zealand,2,1,1,Win,False,True
+WC-2011,2011 FIFA Women's World Cup,M-2011-11,group stage,2011-07-01,Japan,Mexico,4,0,4,Win,True,False
+WC-2011,2011 FIFA Women's World Cup,M-2011-17,group stage,2011-07-05,England,Japan,2,0,2,Loss,False,False
+WC-2011,2011 FIFA Women's World Cup,M-2011-26,quarter-final,2011-07-09,Germany,Japan,0,1,1,Win,False,True
+WC-2011,2011 FIFA Women's World Cup,M-2011-30,semi-final,2011-07-13,Japan,Sweden,3,1,2,Win,False,False
+WC-2011,2011 FIFA Women's World Cup,M-2011-32,final,2011-07-17,Japan,United States,2,2,0,Draw,False,False
+WC-2014,2014 FIFA Men's World Cup,M-2014-12,group stage,2014-06-16,Germany,Portugal,4,0,4,Win,True,False
+WC-2014,2014 FIFA Men's World Cup,M-2014-28,group stage,2014-06-21,Germany,Ghana,2,2,0,Draw,False,False
+WC-2014,2014 FIFA Men's World Cup,M-2014-46,group stage,2014-06-26,United States,Germany,0,1,1,Win,False,True
+WC-2014,2014 FIFA Men's World Cup,M-2014-54,round of 16,2014-06-30,Germany,Algeria,2,1,1,Win,False,True
+WC-2014,2014 FIFA Men's World Cup,M-2014-57,quarter-finals,2014-07-04,France,Germany,0,1,1,Win,False,True
+WC-2014,2014 FIFA Men's World Cup,M-2014-61,semi-finals,2014-07-08,Brazil,Germany,1,7,6,Win,True,False
+WC-2014,2014 FIFA Men's World Cup,M-2014-64,final,2014-07-13,Germany,Argentina,1,0,1,Win,False,True
+WC-2015,2015 FIFA Women's World Cup,M-2015-07,group stage,2015-06-08,United States,Australia,3,1,2,Win,False,False
+WC-2015,2015 FIFA Women's World Cup,M-2015-20,group stage,2015-06-12,United States,Sweden,0,0,0,Draw,False,False
+WC-2015,2015 FIFA Women's World Cup,M-2015-31,group stage,2015-06-16,Nigeria,United States,0,1,1,Win,False,True
+WC-2015,2015 FIFA Women's World Cup,M-2015-43,round of 16,2015-06-22,United States,Colombia,2,0,2,Win,False,False
+WC-2015,2015 FIFA Women's World Cup,M-2015-46,quarter-final,2015-06-26,China,United States,0,1,1,Win,False,True
+WC-2015,2015 FIFA Women's World Cup,M-2015-49,semi-final,2015-06-30,United States,Germany,2,0,2,Win,False,False
+WC-2015,2015 FIFA Women's World Cup,M-2015-52,final,2015-07-05,United States,Japan,5,2,3,Win,True,False
+WC-2018,2018 FIFA Men's World Cup,M-2018-05,group stage,2018-06-16,France,Australia,2,1,1,Win,False,True
+WC-2018,2018 FIFA Men's World Cup,M-2018-22,group stage,2018-06-21,France,Peru,1,0,1,Win,False,True
+WC-2018,2018 FIFA Men's World Cup,M-2018-38,group stage,2018-06-26,Denmark,France,0,0,0,Draw,False,False
+WC-2018,2018 FIFA Men's World Cup,M-2018-49,round of 16,2018-06-30,France,Argentina,4,3,1,Win,False,True
+WC-2018,2018 FIFA Men's World Cup,M-2018-57,quarter-finals,2018-07-06,Uruguay,France,0,2,2,Win,False,False
+WC-2018,2018 FIFA Men's World Cup,M-2018-61,semi-finals,2018-07-10,France,Belgium,1,0,1,Win,False,True
+WC-2018,2018 FIFA Men's World Cup,M-2018-64,final,2018-07-15,France,Croatia,4,2,2,Win,False,False
+WC-2019,2019 FIFA Women's World Cup,M-2019-12,group stage,2019-06-11,United States,Thailand,13,0,13,Win,True,False
+WC-2019,2019 FIFA Women's World Cup,M-2019-24,group stage,2019-06-16,United States,Chile,3,0,3,Win,True,False
+WC-2019,2019 FIFA Women's World Cup,M-2019-35,group stage,2019-06-20,Sweden,United States,0,2,2,Win,False,False
+WC-2019,2019 FIFA Women's World Cup,M-2019-41,round of 16,2019-06-24,Spain,United States,1,2,1,Win,False,True
+WC-2019,2019 FIFA Women's World Cup,M-2019-46,quarter-final,2019-06-28,France,United States,1,2,1,Win,False,True
+WC-2019,2019 FIFA Women's World Cup,M-2019-49,semi-final,2019-07-02,England,United States,1,2,1,Win,False,True
+WC-2019,2019 FIFA Women's World Cup,M-2019-52,final,2019-07-07,United States,Netherlands,2,0,2,Win,False,False
+WC-2022,2022 FIFA Men's World Cup,M-2022-05,group stage,2022-11-22,Argentina,Saudi Arabia,1,2,1,Loss,False,True
+WC-2022,2022 FIFA Men's World Cup,M-2022-24,group stage,2022-11-26,Argentina,Mexico,2,0,2,Win,False,False
+WC-2022,2022 FIFA Men's World Cup,M-2022-39,group stage,2022-11-30,Poland,Argentina,0,2,2,Win,False,False
+WC-2022,2022 FIFA Men's World Cup,M-2022-50,round of 16,2022-12-03,Argentina,Australia,2,1,1,Win,False,True
+WC-2022,2022 FIFA Men's World Cup,M-2022-58,quarter-finals,2022-12-09,Netherlands,Argentina,2,2,0,Draw,False,False
+WC-2022,2022 FIFA Men's World Cup,M-2022-61,semi-finals,2022-12-13,Argentina,Croatia,3,0,3,Win,True,False
+WC-2022,2022 FIFA Men's World Cup,M-2022-64,final,2022-12-18,Argentina,France,3,3,0,Draw,False,False

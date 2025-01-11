@@ -1,0 +1,1271 @@
+year,tournament_name_match,stage_name_match,team_name,goals_for,goals_against,goal_differential,win,lose,draw_team,match_id,win_rate,avg_goals_per_match,avg_conceded_per_match
+1930,1930 FIFA Men's World Cup,final,Argentina,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1930,1930 FIFA Men's World Cup,final,Uruguay,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1930,1930 FIFA Men's World Cup,group stage,Argentina,10,4,2.0,3,0,0,3,100.0,3.3333333333333335,1.3333333333333333
+1930,1930 FIFA Men's World Cup,group stage,Belgium,0,4,-2.0,0,2,0,2,0.0,0.0,2.0
+1930,1930 FIFA Men's World Cup,group stage,Bolivia,0,8,-4.0,0,2,0,2,0.0,0.0,4.0
+1930,1930 FIFA Men's World Cup,group stage,Brazil,5,2,1.5,1,1,0,2,50.0,2.5,1.0
+1930,1930 FIFA Men's World Cup,group stage,Chile,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+1930,1930 FIFA Men's World Cup,group stage,France,4,3,0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.0
+1930,1930 FIFA Men's World Cup,group stage,Mexico,4,13,-3.0,0,3,0,3,0.0,1.3333333333333333,4.333333333333333
+1930,1930 FIFA Men's World Cup,group stage,Paraguay,1,3,-1.0,1,1,0,2,50.0,0.5,1.5
+1930,1930 FIFA Men's World Cup,group stage,Peru,1,4,-1.5,0,2,0,2,0.0,0.5,2.0
+1930,1930 FIFA Men's World Cup,group stage,Romania,3,5,-1.0,1,1,0,2,50.0,1.5,2.5
+1930,1930 FIFA Men's World Cup,group stage,United States,6,0,3.0,2,0,0,2,100.0,3.0,0.0
+1930,1930 FIFA Men's World Cup,group stage,Uruguay,5,0,2.5,2,0,0,2,100.0,2.5,0.0
+1930,1930 FIFA Men's World Cup,group stage,Yugoslavia,6,1,2.5,2,0,0,2,100.0,3.0,0.5
+1930,1930 FIFA Men's World Cup,semi-finals,Argentina,6,1,5.0,1,0,0,1,100.0,6.0,1.0
+1930,1930 FIFA Men's World Cup,semi-finals,United States,1,6,-5.0,0,1,0,1,0.0,1.0,6.0
+1930,1930 FIFA Men's World Cup,semi-finals,Uruguay,6,1,5.0,1,0,0,1,100.0,6.0,1.0
+1930,1930 FIFA Men's World Cup,semi-finals,Yugoslavia,1,6,-5.0,0,1,0,1,0.0,1.0,6.0
+1934,1934 FIFA Men's World Cup,final,Czechoslovakia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1934,1934 FIFA Men's World Cup,final,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Austria,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Czechoslovakia,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Hungary,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Italy,2,1,0.5,1,0,1,2,50.0,1.0,0.5
+1934,1934 FIFA Men's World Cup,quarter-finals,Spain,1,2,-0.5,0,1,1,2,0.0,0.5,1.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Sweden,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1934,1934 FIFA Men's World Cup,quarter-finals,Switzerland,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1934,1934 FIFA Men's World Cup,round of 16,Argentina,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1934,1934 FIFA Men's World Cup,round of 16,Austria,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,Belgium,2,5,-3.0,0,1,0,1,0.0,2.0,5.0
+1934,1934 FIFA Men's World Cup,round of 16,Brazil,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1934,1934 FIFA Men's World Cup,round of 16,Czechoslovakia,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1934,1934 FIFA Men's World Cup,round of 16,Egypt,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1934,1934 FIFA Men's World Cup,round of 16,France,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1934,1934 FIFA Men's World Cup,round of 16,Germany,5,2,3.0,1,0,0,1,100.0,5.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,Hungary,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,Italy,7,1,6.0,1,0,0,1,100.0,7.0,1.0
+1934,1934 FIFA Men's World Cup,round of 16,Netherlands,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1934,1934 FIFA Men's World Cup,round of 16,Romania,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,Spain,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1934,1934 FIFA Men's World Cup,round of 16,Sweden,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,Switzerland,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1934,1934 FIFA Men's World Cup,round of 16,United States,1,7,-6.0,0,1,0,1,0.0,1.0,7.0
+1934,1934 FIFA Men's World Cup,semi-finals,Austria,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1934,1934 FIFA Men's World Cup,semi-finals,Czechoslovakia,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1934,1934 FIFA Men's World Cup,semi-finals,Germany,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1934,1934 FIFA Men's World Cup,semi-finals,Italy,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1934,1934 FIFA Men's World Cup,third-place match,Austria,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1934,1934 FIFA Men's World Cup,third-place match,Germany,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1938,1938 FIFA Men's World Cup,final,Hungary,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1938,1938 FIFA Men's World Cup,final,Italy,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Brazil,3,2,0.5,1,0,1,2,50.0,1.5,1.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Cuba,0,8,-8.0,0,1,0,1,0.0,0.0,8.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Czechoslovakia,2,3,-0.5,0,1,1,2,0.0,1.0,1.5
+1938,1938 FIFA Men's World Cup,quarter-finals,France,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Hungary,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Italy,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Sweden,8,0,8.0,1,0,0,1,100.0,8.0,0.0
+1938,1938 FIFA Men's World Cup,quarter-finals,Switzerland,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1938,1938 FIFA Men's World Cup,round of 16,Belgium,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1938,1938 FIFA Men's World Cup,round of 16,Brazil,6,5,1.0,1,0,0,1,100.0,6.0,5.0
+1938,1938 FIFA Men's World Cup,round of 16,Cuba,5,4,0.5,1,0,1,2,50.0,2.5,2.0
+1938,1938 FIFA Men's World Cup,round of 16,Czechoslovakia,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1938,1938 FIFA Men's World Cup,round of 16,Dutch East Indies,0,6,-6.0,0,1,0,1,0.0,0.0,6.0
+1938,1938 FIFA Men's World Cup,round of 16,France,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1938,1938 FIFA Men's World Cup,round of 16,Germany,3,5,-1.0,0,1,1,2,0.0,1.5,2.5
+1938,1938 FIFA Men's World Cup,round of 16,Hungary,6,0,6.0,1,0,0,1,100.0,6.0,0.0
+1938,1938 FIFA Men's World Cup,round of 16,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1938,1938 FIFA Men's World Cup,round of 16,Netherlands,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1938,1938 FIFA Men's World Cup,round of 16,Norway,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1938,1938 FIFA Men's World Cup,round of 16,Poland,5,6,-1.0,0,1,0,1,0.0,5.0,6.0
+1938,1938 FIFA Men's World Cup,round of 16,Romania,4,5,-0.5,0,1,1,2,0.0,2.0,2.5
+1938,1938 FIFA Men's World Cup,round of 16,Switzerland,5,3,1.0,1,0,1,2,50.0,2.5,1.5
+1938,1938 FIFA Men's World Cup,semi-finals,Brazil,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1938,1938 FIFA Men's World Cup,semi-finals,Hungary,5,1,4.0,1,0,0,1,100.0,5.0,1.0
+1938,1938 FIFA Men's World Cup,semi-finals,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1938,1938 FIFA Men's World Cup,semi-finals,Sweden,1,5,-4.0,0,1,0,1,0.0,1.0,5.0
+1938,1938 FIFA Men's World Cup,third-place match,Brazil,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1938,1938 FIFA Men's World Cup,third-place match,Sweden,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1950,1950 FIFA Men's World Cup,final round,Brazil,14,4,3.3333333333333335,2,1,0,3,66.66666666666666,4.666666666666667,1.3333333333333333
+1950,1950 FIFA Men's World Cup,final round,Spain,4,11,-2.3333333333333335,0,2,1,3,0.0,1.3333333333333333,3.6666666666666665
+1950,1950 FIFA Men's World Cup,final round,Sweden,6,11,-1.6666666666666667,1,2,0,3,33.33333333333333,2.0,3.6666666666666665
+1950,1950 FIFA Men's World Cup,final round,Uruguay,7,5,0.6666666666666666,2,0,1,3,66.66666666666666,2.3333333333333335,1.6666666666666667
+1950,1950 FIFA Men's World Cup,group stage,Bolivia,0,8,-8.0,0,1,0,1,0.0,0.0,8.0
+1950,1950 FIFA Men's World Cup,group stage,Brazil,8,2,2.0,2,0,1,3,66.66666666666666,2.6666666666666665,0.6666666666666666
+1950,1950 FIFA Men's World Cup,group stage,Chile,5,6,-0.3333333333333333,1,2,0,3,33.33333333333333,1.6666666666666667,2.0
+1950,1950 FIFA Men's World Cup,group stage,England,2,2,0.0,1,2,0,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1950,1950 FIFA Men's World Cup,group stage,Italy,4,3,0.5,1,1,0,2,50.0,2.0,1.5
+1950,1950 FIFA Men's World Cup,group stage,Mexico,2,10,-2.6666666666666665,0,3,0,3,0.0,0.6666666666666666,3.3333333333333335
+1950,1950 FIFA Men's World Cup,group stage,Paraguay,2,4,-1.0,0,1,1,2,0.0,1.0,2.0
+1950,1950 FIFA Men's World Cup,group stage,Spain,6,1,1.6666666666666667,3,0,0,3,100.0,2.0,0.3333333333333333
+1950,1950 FIFA Men's World Cup,group stage,Sweden,5,4,0.5,1,0,1,2,50.0,2.5,2.0
+1950,1950 FIFA Men's World Cup,group stage,Switzerland,4,6,-0.6666666666666666,1,1,1,3,33.33333333333333,1.3333333333333333,2.0
+1950,1950 FIFA Men's World Cup,group stage,United States,4,8,-1.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,2.6666666666666665
+1950,1950 FIFA Men's World Cup,group stage,Uruguay,8,0,8.0,1,0,0,1,100.0,8.0,0.0
+1950,1950 FIFA Men's World Cup,group stage,Yugoslavia,7,3,1.3333333333333333,2,1,0,3,66.66666666666666,2.3333333333333335,1.0
+1954,1954 FIFA Men's World Cup,final,Hungary,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1954,1954 FIFA Men's World Cup,final,West Germany,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1954,1954 FIFA Men's World Cup,group stage,Austria,6,0,3.0,2,0,0,2,100.0,3.0,0.0
+1954,1954 FIFA Men's World Cup,group stage,Belgium,5,8,-1.5,0,1,1,2,0.0,2.5,4.0
+1954,1954 FIFA Men's World Cup,group stage,Brazil,6,1,2.5,1,0,1,2,50.0,3.0,0.5
+1954,1954 FIFA Men's World Cup,group stage,Czechoslovakia,0,7,-3.5,0,2,0,2,0.0,0.0,3.5
+1954,1954 FIFA Men's World Cup,group stage,England,6,4,1.0,1,0,1,2,50.0,3.0,2.0
+1954,1954 FIFA Men's World Cup,group stage,France,3,3,0.0,1,1,0,2,50.0,1.5,1.5
+1954,1954 FIFA Men's World Cup,group stage,Hungary,17,3,7.0,2,0,0,2,100.0,8.5,1.5
+1954,1954 FIFA Men's World Cup,group stage,Italy,6,7,-0.3333333333333333,1,2,0,3,33.33333333333333,2.0,2.3333333333333335
+1954,1954 FIFA Men's World Cup,group stage,Mexico,2,8,-3.0,0,2,0,2,0.0,1.0,4.0
+1954,1954 FIFA Men's World Cup,group stage,Scotland,0,8,-4.0,0,2,0,2,0.0,0.0,4.0
+1954,1954 FIFA Men's World Cup,group stage,South Korea,0,16,-8.0,0,2,0,2,0.0,0.0,8.0
+1954,1954 FIFA Men's World Cup,group stage,Switzerland,6,4,0.6666666666666666,2,1,0,3,66.66666666666666,2.0,1.3333333333333333
+1954,1954 FIFA Men's World Cup,group stage,Turkey,10,11,-0.3333333333333333,1,2,0,3,33.33333333333333,3.3333333333333335,3.6666666666666665
+1954,1954 FIFA Men's World Cup,group stage,Uruguay,9,0,4.5,2,0,0,2,100.0,4.5,0.0
+1954,1954 FIFA Men's World Cup,group stage,West Germany,14,11,1.0,2,1,0,3,66.66666666666666,4.666666666666667,3.6666666666666665
+1954,1954 FIFA Men's World Cup,group stage,Yugoslavia,2,1,0.5,1,0,1,2,50.0,1.0,0.5
+1954,1954 FIFA Men's World Cup,quarter-finals,Austria,7,5,2.0,1,0,0,1,100.0,7.0,5.0
+1954,1954 FIFA Men's World Cup,quarter-finals,Brazil,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1954,1954 FIFA Men's World Cup,quarter-finals,England,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1954,1954 FIFA Men's World Cup,quarter-finals,Hungary,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1954,1954 FIFA Men's World Cup,quarter-finals,Switzerland,5,7,-2.0,0,1,0,1,0.0,5.0,7.0
+1954,1954 FIFA Men's World Cup,quarter-finals,Uruguay,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1954,1954 FIFA Men's World Cup,quarter-finals,West Germany,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1954,1954 FIFA Men's World Cup,quarter-finals,Yugoslavia,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1954,1954 FIFA Men's World Cup,semi-finals,Austria,1,6,-5.0,0,1,0,1,0.0,1.0,6.0
+1954,1954 FIFA Men's World Cup,semi-finals,Hungary,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1954,1954 FIFA Men's World Cup,semi-finals,Uruguay,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1954,1954 FIFA Men's World Cup,semi-finals,West Germany,6,1,5.0,1,0,0,1,100.0,6.0,1.0
+1954,1954 FIFA Men's World Cup,third-place match,Austria,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1954,1954 FIFA Men's World Cup,third-place match,Uruguay,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1958,1958 FIFA Men's World Cup,final,Brazil,5,2,3.0,1,0,0,1,100.0,5.0,2.0
+1958,1958 FIFA Men's World Cup,final,Sweden,2,5,-3.0,0,1,0,1,0.0,2.0,5.0
+1958,1958 FIFA Men's World Cup,group stage,Argentina,5,10,-1.6666666666666667,1,2,0,3,33.33333333333333,1.6666666666666667,3.3333333333333335
+1958,1958 FIFA Men's World Cup,group stage,Austria,2,7,-1.6666666666666667,0,2,1,3,0.0,0.6666666666666666,2.3333333333333335
+1958,1958 FIFA Men's World Cup,group stage,Brazil,5,0,1.6666666666666667,2,0,1,3,66.66666666666666,1.6666666666666667,0.0
+1958,1958 FIFA Men's World Cup,group stage,Czechoslovakia,9,6,0.75,1,2,1,4,25.0,2.25,1.5
+1958,1958 FIFA Men's World Cup,group stage,England,4,5,-0.25,0,1,3,4,0.0,1.0,1.25
+1958,1958 FIFA Men's World Cup,group stage,France,11,7,1.3333333333333333,2,1,0,3,66.66666666666666,3.6666666666666665,2.3333333333333335
+1958,1958 FIFA Men's World Cup,group stage,Hungary,7,5,0.5,1,2,1,4,25.0,1.75,1.25
+1958,1958 FIFA Men's World Cup,group stage,Mexico,1,8,-2.3333333333333335,0,2,1,3,0.0,0.3333333333333333,2.6666666666666665
+1958,1958 FIFA Men's World Cup,group stage,Northern Ireland,6,6,0.0,2,1,1,4,50.0,1.5,1.5
+1958,1958 FIFA Men's World Cup,group stage,Paraguay,9,12,-1.0,1,1,1,3,33.33333333333333,3.0,4.0
+1958,1958 FIFA Men's World Cup,group stage,Scotland,4,6,-0.6666666666666666,0,2,1,3,0.0,1.3333333333333333,2.0
+1958,1958 FIFA Men's World Cup,group stage,Soviet Union,5,4,0.25,2,1,1,4,50.0,1.25,1.0
+1958,1958 FIFA Men's World Cup,group stage,Sweden,5,1,1.3333333333333333,2,0,1,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+1958,1958 FIFA Men's World Cup,group stage,Wales,4,3,0.25,1,0,3,4,25.0,1.0,0.75
+1958,1958 FIFA Men's World Cup,group stage,West Germany,7,5,0.6666666666666666,1,0,2,3,33.33333333333333,2.3333333333333335,1.6666666666666667
+1958,1958 FIFA Men's World Cup,group stage,Yugoslavia,7,6,0.3333333333333333,1,0,2,3,33.33333333333333,2.3333333333333335,2.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Brazil,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1958,1958 FIFA Men's World Cup,quarter-finals,France,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Northern Ireland,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Soviet Union,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Sweden,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Wales,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1958,1958 FIFA Men's World Cup,quarter-finals,West Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1958,1958 FIFA Men's World Cup,quarter-finals,Yugoslavia,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1958,1958 FIFA Men's World Cup,semi-finals,Brazil,5,2,3.0,1,0,0,1,100.0,5.0,2.0
+1958,1958 FIFA Men's World Cup,semi-finals,France,2,5,-3.0,0,1,0,1,0.0,2.0,5.0
+1958,1958 FIFA Men's World Cup,semi-finals,Sweden,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1958,1958 FIFA Men's World Cup,semi-finals,West Germany,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1958,1958 FIFA Men's World Cup,third-place match,France,6,3,3.0,1,0,0,1,100.0,6.0,3.0
+1958,1958 FIFA Men's World Cup,third-place match,West Germany,3,6,-3.0,0,1,0,1,0.0,3.0,6.0
+1962,1962 FIFA Men's World Cup,final,Brazil,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1962,1962 FIFA Men's World Cup,final,Czechoslovakia,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1962,1962 FIFA Men's World Cup,group stage,Argentina,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+1962,1962 FIFA Men's World Cup,group stage,Brazil,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1962,1962 FIFA Men's World Cup,group stage,Bulgaria,1,7,-2.0,0,2,1,3,0.0,0.3333333333333333,2.3333333333333335
+1962,1962 FIFA Men's World Cup,group stage,Chile,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+1962,1962 FIFA Men's World Cup,group stage,Colombia,5,11,-2.0,0,2,1,3,0.0,1.6666666666666667,3.6666666666666665
+1962,1962 FIFA Men's World Cup,group stage,Czechoslovakia,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+1962,1962 FIFA Men's World Cup,group stage,England,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+1962,1962 FIFA Men's World Cup,group stage,Hungary,8,2,2.0,2,0,1,3,66.66666666666666,2.6666666666666665,0.6666666666666666
+1962,1962 FIFA Men's World Cup,group stage,Italy,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+1962,1962 FIFA Men's World Cup,group stage,Mexico,3,4,-0.3333333333333333,1,2,0,3,33.33333333333333,1.0,1.3333333333333333
+1962,1962 FIFA Men's World Cup,group stage,Soviet Union,8,5,1.0,2,0,1,3,66.66666666666666,2.6666666666666665,1.6666666666666667
+1962,1962 FIFA Men's World Cup,group stage,Spain,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+1962,1962 FIFA Men's World Cup,group stage,Switzerland,2,8,-2.0,0,3,0,3,0.0,0.6666666666666666,2.6666666666666665
+1962,1962 FIFA Men's World Cup,group stage,Uruguay,4,6,-0.6666666666666666,1,2,0,3,33.33333333333333,1.3333333333333333,2.0
+1962,1962 FIFA Men's World Cup,group stage,West Germany,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1962,1962 FIFA Men's World Cup,group stage,Yugoslavia,8,3,1.6666666666666667,2,1,0,3,66.66666666666666,2.6666666666666665,1.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Brazil,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Chile,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Czechoslovakia,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1962,1962 FIFA Men's World Cup,quarter-finals,England,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Hungary,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Soviet Union,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1962,1962 FIFA Men's World Cup,quarter-finals,West Germany,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1962,1962 FIFA Men's World Cup,quarter-finals,Yugoslavia,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1962,1962 FIFA Men's World Cup,semi-finals,Brazil,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1962,1962 FIFA Men's World Cup,semi-finals,Chile,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1962,1962 FIFA Men's World Cup,semi-finals,Czechoslovakia,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1962,1962 FIFA Men's World Cup,semi-finals,Yugoslavia,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1962,1962 FIFA Men's World Cup,third-place match,Chile,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1962,1962 FIFA Men's World Cup,third-place match,Yugoslavia,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1966,1966 FIFA Men's World Cup,final,England,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1966,1966 FIFA Men's World Cup,final,West Germany,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1966,1966 FIFA Men's World Cup,group stage,Argentina,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1966,1966 FIFA Men's World Cup,group stage,Brazil,4,6,-0.6666666666666666,1,2,0,3,33.33333333333333,1.3333333333333333,2.0
+1966,1966 FIFA Men's World Cup,group stage,Bulgaria,1,8,-2.3333333333333335,0,3,0,3,0.0,0.3333333333333333,2.6666666666666665
+1966,1966 FIFA Men's World Cup,group stage,Chile,2,5,-1.0,0,2,1,3,0.0,0.6666666666666666,1.6666666666666667
+1966,1966 FIFA Men's World Cup,group stage,England,4,0,1.3333333333333333,2,0,1,3,66.66666666666666,1.3333333333333333,0.0
+1966,1966 FIFA Men's World Cup,group stage,France,2,5,-1.0,0,2,1,3,0.0,0.6666666666666666,1.6666666666666667
+1966,1966 FIFA Men's World Cup,group stage,Hungary,7,5,0.6666666666666666,2,1,0,3,66.66666666666666,2.3333333333333335,1.6666666666666667
+1966,1966 FIFA Men's World Cup,group stage,Italy,2,2,0.0,1,2,0,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1966,1966 FIFA Men's World Cup,group stage,Mexico,1,3,-0.6666666666666666,0,1,2,3,0.0,0.3333333333333333,1.0
+1966,1966 FIFA Men's World Cup,group stage,North Korea,2,4,-0.6666666666666666,1,1,1,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+1966,1966 FIFA Men's World Cup,group stage,Portugal,9,2,2.3333333333333335,3,0,0,3,100.0,3.0,0.6666666666666666
+1966,1966 FIFA Men's World Cup,group stage,Soviet Union,6,1,1.6666666666666667,3,0,0,3,100.0,2.0,0.3333333333333333
+1966,1966 FIFA Men's World Cup,group stage,Spain,4,5,-0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+1966,1966 FIFA Men's World Cup,group stage,Switzerland,1,9,-2.6666666666666665,0,3,0,3,0.0,0.3333333333333333,3.0
+1966,1966 FIFA Men's World Cup,group stage,Uruguay,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+1966,1966 FIFA Men's World Cup,group stage,West Germany,7,1,2.0,2,0,1,3,66.66666666666666,2.3333333333333335,0.3333333333333333
+1966,1966 FIFA Men's World Cup,quarter-finals,Argentina,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1966,1966 FIFA Men's World Cup,quarter-finals,England,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1966,1966 FIFA Men's World Cup,quarter-finals,Hungary,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1966,1966 FIFA Men's World Cup,quarter-finals,North Korea,3,5,-2.0,0,1,0,1,0.0,3.0,5.0
+1966,1966 FIFA Men's World Cup,quarter-finals,Portugal,5,3,2.0,1,0,0,1,100.0,5.0,3.0
+1966,1966 FIFA Men's World Cup,quarter-finals,Soviet Union,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1966,1966 FIFA Men's World Cup,quarter-finals,Uruguay,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1966,1966 FIFA Men's World Cup,quarter-finals,West Germany,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1966,1966 FIFA Men's World Cup,semi-finals,England,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1966,1966 FIFA Men's World Cup,semi-finals,Portugal,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1966,1966 FIFA Men's World Cup,semi-finals,Soviet Union,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1966,1966 FIFA Men's World Cup,semi-finals,West Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1966,1966 FIFA Men's World Cup,third-place match,Portugal,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1966,1966 FIFA Men's World Cup,third-place match,Soviet Union,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1970,1970 FIFA Men's World Cup,final,Brazil,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1970,1970 FIFA Men's World Cup,final,Italy,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1970,1970 FIFA Men's World Cup,group stage,Belgium,4,5,-0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+1970,1970 FIFA Men's World Cup,group stage,Brazil,8,3,1.6666666666666667,3,0,0,3,100.0,2.6666666666666665,1.0
+1970,1970 FIFA Men's World Cup,group stage,Bulgaria,5,9,-1.3333333333333333,0,2,1,3,0.0,1.6666666666666667,3.0
+1970,1970 FIFA Men's World Cup,group stage,Czechoslovakia,2,7,-1.6666666666666667,0,3,0,3,0.0,0.6666666666666666,2.3333333333333335
+1970,1970 FIFA Men's World Cup,group stage,El Salvador,0,9,-3.0,0,3,0,3,0.0,0.0,3.0
+1970,1970 FIFA Men's World Cup,group stage,England,2,1,0.3333333333333333,2,1,0,3,66.66666666666666,0.6666666666666666,0.3333333333333333
+1970,1970 FIFA Men's World Cup,group stage,Israel,1,3,-0.6666666666666666,0,1,2,3,0.0,0.3333333333333333,1.0
+1970,1970 FIFA Men's World Cup,group stage,Italy,1,0,0.3333333333333333,1,0,2,3,33.33333333333333,0.3333333333333333,0.0
+1970,1970 FIFA Men's World Cup,group stage,Mexico,5,0,1.6666666666666667,2,0,1,3,66.66666666666666,1.6666666666666667,0.0
+1970,1970 FIFA Men's World Cup,group stage,Morocco,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+1970,1970 FIFA Men's World Cup,group stage,Peru,7,5,0.6666666666666666,2,1,0,3,66.66666666666666,2.3333333333333335,1.6666666666666667
+1970,1970 FIFA Men's World Cup,group stage,Romania,4,5,-0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+1970,1970 FIFA Men's World Cup,group stage,Soviet Union,6,1,1.6666666666666667,2,0,1,3,66.66666666666666,2.0,0.3333333333333333
+1970,1970 FIFA Men's World Cup,group stage,Sweden,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1970,1970 FIFA Men's World Cup,group stage,Uruguay,2,1,0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+1970,1970 FIFA Men's World Cup,group stage,West Germany,10,4,2.0,3,0,0,3,100.0,3.3333333333333335,1.3333333333333333
+1970,1970 FIFA Men's World Cup,quarter-finals,Brazil,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1970,1970 FIFA Men's World Cup,quarter-finals,England,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1970,1970 FIFA Men's World Cup,quarter-finals,Italy,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1970,1970 FIFA Men's World Cup,quarter-finals,Mexico,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1970,1970 FIFA Men's World Cup,quarter-finals,Peru,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1970,1970 FIFA Men's World Cup,quarter-finals,Soviet Union,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1970,1970 FIFA Men's World Cup,quarter-finals,Uruguay,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1970,1970 FIFA Men's World Cup,quarter-finals,West Germany,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1970,1970 FIFA Men's World Cup,semi-finals,Brazil,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1970,1970 FIFA Men's World Cup,semi-finals,Italy,4,3,1.0,1,0,0,1,100.0,4.0,3.0
+1970,1970 FIFA Men's World Cup,semi-finals,Uruguay,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1970,1970 FIFA Men's World Cup,semi-finals,West Germany,3,4,-1.0,0,1,0,1,0.0,3.0,4.0
+1970,1970 FIFA Men's World Cup,third-place match,Uruguay,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1970,1970 FIFA Men's World Cup,third-place match,West Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1974,1974 FIFA Men's World Cup,final,Netherlands,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1974,1974 FIFA Men's World Cup,final,West Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1974,1974 FIFA Men's World Cup,group stage,Argentina,7,5,0.6666666666666666,1,1,1,3,33.33333333333333,2.3333333333333335,1.6666666666666667
+1974,1974 FIFA Men's World Cup,group stage,Australia,0,5,-1.6666666666666667,0,2,1,3,0.0,0.0,1.6666666666666667
+1974,1974 FIFA Men's World Cup,group stage,Brazil,3,0,1.0,1,0,2,3,33.33333333333333,1.0,0.0
+1974,1974 FIFA Men's World Cup,group stage,Bulgaria,2,5,-1.0,0,1,2,3,0.0,0.6666666666666666,1.6666666666666667
+1974,1974 FIFA Men's World Cup,group stage,Chile,1,2,-0.3333333333333333,0,1,2,3,0.0,0.3333333333333333,0.6666666666666666
+1974,1974 FIFA Men's World Cup,group stage,East Germany,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Haiti,2,14,-4.0,0,3,0,3,0.0,0.6666666666666666,4.666666666666667
+1974,1974 FIFA Men's World Cup,group stage,Italy,5,4,0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Netherlands,6,1,1.6666666666666667,2,0,1,3,66.66666666666666,2.0,0.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Poland,12,3,3.0,3,0,0,3,100.0,4.0,1.0
+1974,1974 FIFA Men's World Cup,group stage,Scotland,3,1,0.6666666666666666,1,0,2,3,33.33333333333333,1.0,0.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Sweden,3,0,1.0,1,0,2,3,33.33333333333333,1.0,0.0
+1974,1974 FIFA Men's World Cup,group stage,Uruguay,1,6,-1.6666666666666667,0,2,1,3,0.0,0.3333333333333333,2.0
+1974,1974 FIFA Men's World Cup,group stage,West Germany,4,1,1.0,2,1,0,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Yugoslavia,10,1,3.0,1,0,2,3,33.33333333333333,3.3333333333333335,0.3333333333333333
+1974,1974 FIFA Men's World Cup,group stage,Zaire,0,14,-4.666666666666667,0,3,0,3,0.0,0.0,4.666666666666667
+1974,1974 FIFA Men's World Cup,second group stage,Argentina,2,7,-1.6666666666666667,0,2,1,3,0.0,0.6666666666666666,2.3333333333333335
+1974,1974 FIFA Men's World Cup,second group stage,Brazil,3,3,0.0,2,1,0,3,66.66666666666666,1.0,1.0
+1974,1974 FIFA Men's World Cup,second group stage,East Germany,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+1974,1974 FIFA Men's World Cup,second group stage,Netherlands,8,0,2.6666666666666665,3,0,0,3,100.0,2.6666666666666665,0.0
+1974,1974 FIFA Men's World Cup,second group stage,Poland,3,2,0.3333333333333333,2,1,0,3,66.66666666666666,1.0,0.6666666666666666
+1974,1974 FIFA Men's World Cup,second group stage,Sweden,4,6,-0.6666666666666666,1,2,0,3,33.33333333333333,1.3333333333333333,2.0
+1974,1974 FIFA Men's World Cup,second group stage,West Germany,7,2,1.6666666666666667,3,0,0,3,100.0,2.3333333333333335,0.6666666666666666
+1974,1974 FIFA Men's World Cup,second group stage,Yugoslavia,2,6,-1.3333333333333333,0,3,0,3,0.0,0.6666666666666666,2.0
+1974,1974 FIFA Men's World Cup,third-place match,Brazil,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1974,1974 FIFA Men's World Cup,third-place match,Poland,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1978,1978 FIFA Men's World Cup,final,Argentina,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1978,1978 FIFA Men's World Cup,final,Netherlands,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1978,1978 FIFA Men's World Cup,group stage,Argentina,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+1978,1978 FIFA Men's World Cup,group stage,Austria,3,2,0.3333333333333333,2,1,0,3,66.66666666666666,1.0,0.6666666666666666
+1978,1978 FIFA Men's World Cup,group stage,Brazil,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+1978,1978 FIFA Men's World Cup,group stage,France,5,5,0.0,1,2,0,3,33.33333333333333,1.6666666666666667,1.6666666666666667
+1978,1978 FIFA Men's World Cup,group stage,Hungary,3,8,-1.6666666666666667,0,3,0,3,0.0,1.0,2.6666666666666665
+1978,1978 FIFA Men's World Cup,group stage,Iran,2,8,-2.0,0,2,1,3,0.0,0.6666666666666666,2.6666666666666665
+1978,1978 FIFA Men's World Cup,group stage,Italy,6,2,1.3333333333333333,3,0,0,3,100.0,2.0,0.6666666666666666
+1978,1978 FIFA Men's World Cup,group stage,Mexico,2,12,-3.3333333333333335,0,3,0,3,0.0,0.6666666666666666,4.0
+1978,1978 FIFA Men's World Cup,group stage,Netherlands,5,3,0.6666666666666666,1,1,1,3,33.33333333333333,1.6666666666666667,1.0
+1978,1978 FIFA Men's World Cup,group stage,Peru,7,2,1.6666666666666667,2,0,1,3,66.66666666666666,2.3333333333333335,0.6666666666666666
+1978,1978 FIFA Men's World Cup,group stage,Poland,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+1978,1978 FIFA Men's World Cup,group stage,Scotland,5,6,-0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,2.0
+1978,1978 FIFA Men's World Cup,group stage,Spain,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1978,1978 FIFA Men's World Cup,group stage,Sweden,1,3,-0.6666666666666666,0,2,1,3,0.0,0.3333333333333333,1.0
+1978,1978 FIFA Men's World Cup,group stage,Tunisia,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+1978,1978 FIFA Men's World Cup,group stage,West Germany,6,0,2.0,1,0,2,3,33.33333333333333,2.0,0.0
+1978,1978 FIFA Men's World Cup,second group stage,Argentina,8,0,2.6666666666666665,2,0,1,3,66.66666666666666,2.6666666666666665,0.0
+1978,1978 FIFA Men's World Cup,second group stage,Austria,4,8,-1.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,2.6666666666666665
+1978,1978 FIFA Men's World Cup,second group stage,Brazil,6,1,1.6666666666666667,2,0,1,3,66.66666666666666,2.0,0.3333333333333333
+1978,1978 FIFA Men's World Cup,second group stage,Italy,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1978,1978 FIFA Men's World Cup,second group stage,Netherlands,9,4,1.6666666666666667,2,0,1,3,66.66666666666666,3.0,1.3333333333333333
+1978,1978 FIFA Men's World Cup,second group stage,Peru,0,10,-3.3333333333333335,0,3,0,3,0.0,0.0,3.3333333333333335
+1978,1978 FIFA Men's World Cup,second group stage,Poland,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+1978,1978 FIFA Men's World Cup,second group stage,West Germany,4,5,-0.3333333333333333,0,1,2,3,0.0,1.3333333333333333,1.6666666666666667
+1978,1978 FIFA Men's World Cup,third-place match,Brazil,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1978,1978 FIFA Men's World Cup,third-place match,Italy,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1982,1982 FIFA Men's World Cup,final,Italy,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1982,1982 FIFA Men's World Cup,final,West Germany,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1982,1982 FIFA Men's World Cup,group stage,Algeria,5,5,0.0,2,1,0,3,66.66666666666666,1.6666666666666667,1.6666666666666667
+1982,1982 FIFA Men's World Cup,group stage,Argentina,6,2,1.3333333333333333,2,1,0,3,66.66666666666666,2.0,0.6666666666666666
+1982,1982 FIFA Men's World Cup,group stage,Austria,3,1,0.6666666666666666,2,1,0,3,66.66666666666666,1.0,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Belgium,3,1,0.6666666666666666,2,0,1,3,66.66666666666666,1.0,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Brazil,10,2,2.6666666666666665,3,0,0,3,100.0,3.3333333333333335,0.6666666666666666
+1982,1982 FIFA Men's World Cup,group stage,Cameroon,1,1,0.0,0,0,3,3,0.0,0.3333333333333333,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Chile,3,8,-1.6666666666666667,0,3,0,3,0.0,1.0,2.6666666666666665
+1982,1982 FIFA Men's World Cup,group stage,Czechoslovakia,2,4,-0.6666666666666666,0,1,2,3,0.0,0.6666666666666666,1.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,El Salvador,1,13,-4.0,0,3,0,3,0.0,0.3333333333333333,4.333333333333333
+1982,1982 FIFA Men's World Cup,group stage,England,6,1,1.6666666666666667,3,0,0,3,100.0,2.0,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,France,6,5,0.3333333333333333,1,1,1,3,33.33333333333333,2.0,1.6666666666666667
+1982,1982 FIFA Men's World Cup,group stage,Honduras,2,3,-0.3333333333333333,0,1,2,3,0.0,0.6666666666666666,1.0
+1982,1982 FIFA Men's World Cup,group stage,Hungary,12,6,2.0,1,1,1,3,33.33333333333333,4.0,2.0
+1982,1982 FIFA Men's World Cup,group stage,Italy,2,2,0.0,0,0,3,3,0.0,0.6666666666666666,0.6666666666666666
+1982,1982 FIFA Men's World Cup,group stage,Kuwait,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+1982,1982 FIFA Men's World Cup,group stage,New Zealand,2,12,-3.3333333333333335,0,3,0,3,0.0,0.6666666666666666,4.0
+1982,1982 FIFA Men's World Cup,group stage,Northern Ireland,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Peru,2,6,-1.3333333333333333,0,1,2,3,0.0,0.6666666666666666,2.0
+1982,1982 FIFA Men's World Cup,group stage,Poland,5,1,1.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,0.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Scotland,8,8,0.0,1,1,1,3,33.33333333333333,2.6666666666666665,2.6666666666666665
+1982,1982 FIFA Men's World Cup,group stage,Soviet Union,6,4,0.6666666666666666,1,1,1,3,33.33333333333333,2.0,1.3333333333333333
+1982,1982 FIFA Men's World Cup,group stage,Spain,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+1982,1982 FIFA Men's World Cup,group stage,West Germany,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1982,1982 FIFA Men's World Cup,group stage,Yugoslavia,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1982,1982 FIFA Men's World Cup,second group stage,Argentina,2,5,-1.5,0,2,0,2,0.0,1.0,2.5
+1982,1982 FIFA Men's World Cup,second group stage,Austria,2,3,-0.5,0,1,1,2,0.0,1.0,1.5
+1982,1982 FIFA Men's World Cup,second group stage,Belgium,0,4,-2.0,0,2,0,2,0.0,0.0,2.0
+1982,1982 FIFA Men's World Cup,second group stage,Brazil,5,4,0.5,1,1,0,2,50.0,2.5,2.0
+1982,1982 FIFA Men's World Cup,second group stage,England,0,0,0.0,0,0,2,2,0.0,0.0,0.0
+1982,1982 FIFA Men's World Cup,second group stage,France,5,1,2.0,2,0,0,2,100.0,2.5,0.5
+1982,1982 FIFA Men's World Cup,second group stage,Italy,5,3,1.0,2,0,0,2,100.0,2.5,1.5
+1982,1982 FIFA Men's World Cup,second group stage,Northern Ireland,3,6,-1.5,0,1,1,2,0.0,1.5,3.0
+1982,1982 FIFA Men's World Cup,second group stage,Poland,3,0,1.5,1,0,1,2,50.0,1.5,0.0
+1982,1982 FIFA Men's World Cup,second group stage,Soviet Union,1,0,0.5,1,0,1,2,50.0,0.5,0.0
+1982,1982 FIFA Men's World Cup,second group stage,Spain,1,2,-0.5,0,1,1,2,0.0,0.5,1.0
+1982,1982 FIFA Men's World Cup,second group stage,West Germany,2,1,0.5,1,0,1,2,50.0,1.0,0.5
+1982,1982 FIFA Men's World Cup,semi-finals,France,3,3,0.0,0,1,0,1,0.0,3.0,3.0
+1982,1982 FIFA Men's World Cup,semi-finals,Italy,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1982,1982 FIFA Men's World Cup,semi-finals,Poland,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1982,1982 FIFA Men's World Cup,semi-finals,West Germany,3,3,0.0,1,0,0,1,100.0,3.0,3.0
+1982,1982 FIFA Men's World Cup,third-place match,France,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1982,1982 FIFA Men's World Cup,third-place match,Poland,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1986,1986 FIFA Men's World Cup,final,Argentina,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1986,1986 FIFA Men's World Cup,final,West Germany,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1986,1986 FIFA Men's World Cup,group stage,Algeria,1,5,-1.3333333333333333,0,2,1,3,0.0,0.3333333333333333,1.6666666666666667
+1986,1986 FIFA Men's World Cup,group stage,Argentina,6,2,1.3333333333333333,2,0,1,3,66.66666666666666,2.0,0.6666666666666666
+1986,1986 FIFA Men's World Cup,group stage,Belgium,5,5,0.0,1,1,1,3,33.33333333333333,1.6666666666666667,1.6666666666666667
+1986,1986 FIFA Men's World Cup,group stage,Brazil,5,0,1.6666666666666667,3,0,0,3,100.0,1.6666666666666667,0.0
+1986,1986 FIFA Men's World Cup,group stage,Bulgaria,2,4,-0.6666666666666666,0,1,2,3,0.0,0.6666666666666666,1.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Canada,0,5,-1.6666666666666667,0,3,0,3,0.0,0.0,1.6666666666666667
+1986,1986 FIFA Men's World Cup,group stage,Denmark,9,1,2.6666666666666665,3,0,0,3,100.0,3.0,0.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,England,3,1,0.6666666666666666,1,1,1,3,33.33333333333333,1.0,0.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,France,5,1,1.3333333333333333,2,0,1,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Hungary,2,9,-2.3333333333333335,1,2,0,3,33.33333333333333,0.6666666666666666,3.0
+1986,1986 FIFA Men's World Cup,group stage,Iraq,1,4,-1.0,0,3,0,3,0.0,0.3333333333333333,1.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Italy,5,4,0.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Mexico,4,2,0.6666666666666666,2,0,1,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+1986,1986 FIFA Men's World Cup,group stage,Morocco,3,1,0.6666666666666666,1,0,2,3,33.33333333333333,1.0,0.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Northern Ireland,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+1986,1986 FIFA Men's World Cup,group stage,Paraguay,4,3,0.3333333333333333,1,0,2,3,33.33333333333333,1.3333333333333333,1.0
+1986,1986 FIFA Men's World Cup,group stage,Poland,1,3,-0.6666666666666666,1,1,1,3,33.33333333333333,0.3333333333333333,1.0
+1986,1986 FIFA Men's World Cup,group stage,Portugal,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Scotland,1,3,-0.6666666666666666,0,2,1,3,0.0,0.3333333333333333,1.0
+1986,1986 FIFA Men's World Cup,group stage,South Korea,4,7,-1.0,0,2,1,3,0.0,1.3333333333333333,2.3333333333333335
+1986,1986 FIFA Men's World Cup,group stage,Soviet Union,9,1,2.6666666666666665,2,0,1,3,66.66666666666666,3.0,0.3333333333333333
+1986,1986 FIFA Men's World Cup,group stage,Spain,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+1986,1986 FIFA Men's World Cup,group stage,Uruguay,2,7,-1.6666666666666667,0,1,2,3,0.0,0.6666666666666666,2.3333333333333335
+1986,1986 FIFA Men's World Cup,group stage,West Germany,3,4,-0.3333333333333333,1,1,1,3,33.33333333333333,1.0,1.3333333333333333
+1986,1986 FIFA Men's World Cup,quarter-finals,Argentina,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1986,1986 FIFA Men's World Cup,quarter-finals,Belgium,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1986,1986 FIFA Men's World Cup,quarter-finals,Brazil,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1986,1986 FIFA Men's World Cup,quarter-finals,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1986,1986 FIFA Men's World Cup,quarter-finals,France,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1986,1986 FIFA Men's World Cup,quarter-finals,Mexico,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1986,1986 FIFA Men's World Cup,quarter-finals,Spain,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1986,1986 FIFA Men's World Cup,quarter-finals,West Germany,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,Argentina,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,Belgium,4,3,1.0,1,0,0,1,100.0,4.0,3.0
+1986,1986 FIFA Men's World Cup,round of 16,Brazil,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,Bulgaria,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1986,1986 FIFA Men's World Cup,round of 16,Denmark,1,5,-4.0,0,1,0,1,0.0,1.0,5.0
+1986,1986 FIFA Men's World Cup,round of 16,England,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,France,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,Italy,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1986,1986 FIFA Men's World Cup,round of 16,Mexico,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1986,1986 FIFA Men's World Cup,round of 16,Morocco,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1986,1986 FIFA Men's World Cup,round of 16,Paraguay,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1986,1986 FIFA Men's World Cup,round of 16,Poland,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1986,1986 FIFA Men's World Cup,round of 16,Soviet Union,3,4,-1.0,0,1,0,1,0.0,3.0,4.0
+1986,1986 FIFA Men's World Cup,round of 16,Spain,5,1,4.0,1,0,0,1,100.0,5.0,1.0
+1986,1986 FIFA Men's World Cup,round of 16,Uruguay,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1986,1986 FIFA Men's World Cup,round of 16,West Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1986,1986 FIFA Men's World Cup,semi-finals,Argentina,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1986,1986 FIFA Men's World Cup,semi-finals,Belgium,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1986,1986 FIFA Men's World Cup,semi-finals,France,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1986,1986 FIFA Men's World Cup,semi-finals,West Germany,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1986,1986 FIFA Men's World Cup,third-place match,Belgium,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+1986,1986 FIFA Men's World Cup,third-place match,France,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+1990,1990 FIFA Men's World Cup,final,Argentina,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1990,1990 FIFA Men's World Cup,final,West Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1990,1990 FIFA Men's World Cup,group stage,Argentina,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Austria,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+1990,1990 FIFA Men's World Cup,group stage,Belgium,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1990,1990 FIFA Men's World Cup,group stage,Brazil,4,1,1.0,3,0,0,3,100.0,1.3333333333333333,0.3333333333333333
+1990,1990 FIFA Men's World Cup,group stage,Cameroon,3,5,-0.6666666666666666,2,1,0,3,66.66666666666666,1.0,1.6666666666666667
+1990,1990 FIFA Men's World Cup,group stage,Colombia,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Costa Rica,3,2,0.3333333333333333,2,1,0,3,66.66666666666666,1.0,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Czechoslovakia,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1990,1990 FIFA Men's World Cup,group stage,Egypt,1,2,-0.3333333333333333,0,1,2,3,0.0,0.3333333333333333,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,England,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+1990,1990 FIFA Men's World Cup,group stage,Italy,4,0,1.3333333333333333,3,0,0,3,100.0,1.3333333333333333,0.0
+1990,1990 FIFA Men's World Cup,group stage,Netherlands,2,2,0.0,0,0,3,3,0.0,0.6666666666666666,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Republic of Ireland,2,2,0.0,0,0,3,3,0.0,0.6666666666666666,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Romania,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+1990,1990 FIFA Men's World Cup,group stage,Scotland,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+1990,1990 FIFA Men's World Cup,group stage,South Korea,1,6,-1.6666666666666667,0,3,0,3,0.0,0.3333333333333333,2.0
+1990,1990 FIFA Men's World Cup,group stage,Soviet Union,4,4,0.0,1,2,0,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+1990,1990 FIFA Men's World Cup,group stage,Spain,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+1990,1990 FIFA Men's World Cup,group stage,Sweden,3,6,-1.0,0,3,0,3,0.0,1.0,2.0
+1990,1990 FIFA Men's World Cup,group stage,United Arab Emirates,2,11,-3.0,0,3,0,3,0.0,0.6666666666666666,3.6666666666666665
+1990,1990 FIFA Men's World Cup,group stage,United States,2,8,-2.0,0,3,0,3,0.0,0.6666666666666666,2.6666666666666665
+1990,1990 FIFA Men's World Cup,group stage,Uruguay,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+1990,1990 FIFA Men's World Cup,group stage,West Germany,10,3,2.3333333333333335,2,0,1,3,66.66666666666666,3.3333333333333335,1.0
+1990,1990 FIFA Men's World Cup,group stage,Yugoslavia,6,5,0.3333333333333333,2,1,0,3,66.66666666666666,2.0,1.6666666666666667
+1990,1990 FIFA Men's World Cup,quarter-finals,Argentina,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1990,1990 FIFA Men's World Cup,quarter-finals,Cameroon,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1990,1990 FIFA Men's World Cup,quarter-finals,Czechoslovakia,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1990,1990 FIFA Men's World Cup,quarter-finals,England,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1990,1990 FIFA Men's World Cup,quarter-finals,Italy,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1990,1990 FIFA Men's World Cup,quarter-finals,Republic of Ireland,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1990,1990 FIFA Men's World Cup,quarter-finals,West Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1990,1990 FIFA Men's World Cup,quarter-finals,Yugoslavia,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Argentina,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Belgium,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1990,1990 FIFA Men's World Cup,round of 16,Brazil,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1990,1990 FIFA Men's World Cup,round of 16,Cameroon,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1990,1990 FIFA Men's World Cup,round of 16,Colombia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1990,1990 FIFA Men's World Cup,round of 16,Costa Rica,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1990,1990 FIFA Men's World Cup,round of 16,Czechoslovakia,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1990,1990 FIFA Men's World Cup,round of 16,England,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Italy,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Netherlands,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1990,1990 FIFA Men's World Cup,round of 16,Republic of Ireland,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Romania,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1990,1990 FIFA Men's World Cup,round of 16,Spain,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1990,1990 FIFA Men's World Cup,round of 16,Uruguay,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1990,1990 FIFA Men's World Cup,round of 16,West Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1990,1990 FIFA Men's World Cup,round of 16,Yugoslavia,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1990,1990 FIFA Men's World Cup,semi-finals,Argentina,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1990,1990 FIFA Men's World Cup,semi-finals,England,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1990,1990 FIFA Men's World Cup,semi-finals,Italy,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1990,1990 FIFA Men's World Cup,semi-finals,West Germany,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1990,1990 FIFA Men's World Cup,third-place match,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1990,1990 FIFA Men's World Cup,third-place match,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1991,1991 FIFA Women's World Cup,final,Norway,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1991,1991 FIFA Women's World Cup,final,United States,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1991,1991 FIFA Women's World Cup,group stage,Brazil,1,7,-2.0,1,2,0,3,33.33333333333333,0.3333333333333333,2.3333333333333335
+1991,1991 FIFA Women's World Cup,group stage,China,10,3,2.3333333333333335,2,0,1,3,66.66666666666666,3.3333333333333335,1.0
+1991,1991 FIFA Women's World Cup,group stage,Chinese Taipei,2,8,-2.0,1,2,0,3,33.33333333333333,0.6666666666666666,2.6666666666666665
+1991,1991 FIFA Women's World Cup,group stage,Denmark,6,4,0.6666666666666666,1,1,1,3,33.33333333333333,2.0,1.3333333333333333
+1991,1991 FIFA Women's World Cup,group stage,Germany,9,0,3.0,3,0,0,3,100.0,3.0,0.0
+1991,1991 FIFA Women's World Cup,group stage,Italy,6,2,1.3333333333333333,2,1,0,3,66.66666666666666,2.0,0.6666666666666666
+1991,1991 FIFA Women's World Cup,group stage,Japan,0,12,-4.0,0,3,0,3,0.0,0.0,4.0
+1991,1991 FIFA Women's World Cup,group stage,New Zealand,1,11,-3.3333333333333335,0,3,0,3,0.0,0.3333333333333333,3.6666666666666665
+1991,1991 FIFA Women's World Cup,group stage,Nigeria,0,7,-2.3333333333333335,0,3,0,3,0.0,0.0,2.3333333333333335
+1991,1991 FIFA Women's World Cup,group stage,Norway,6,5,0.3333333333333333,2,1,0,3,66.66666666666666,2.0,1.6666666666666667
+1991,1991 FIFA Women's World Cup,group stage,Sweden,12,3,3.0,2,1,0,3,66.66666666666666,4.0,1.0
+1991,1991 FIFA Women's World Cup,group stage,United States,11,2,3.0,3,0,0,3,100.0,3.6666666666666665,0.6666666666666666
+1991,1991 FIFA Women's World Cup,quarter-final,China,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1991,1991 FIFA Women's World Cup,quarter-final,Chinese Taipei,0,7,-7.0,0,1,0,1,0.0,0.0,7.0
+1991,1991 FIFA Women's World Cup,quarter-final,Denmark,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1991,1991 FIFA Women's World Cup,quarter-final,Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1991,1991 FIFA Women's World Cup,quarter-final,Italy,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1991,1991 FIFA Women's World Cup,quarter-final,Norway,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1991,1991 FIFA Women's World Cup,quarter-final,Sweden,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1991,1991 FIFA Women's World Cup,quarter-final,United States,7,0,7.0,1,0,0,1,100.0,7.0,0.0
+1991,1991 FIFA Women's World Cup,semi-final,Germany,2,5,-3.0,0,1,0,1,0.0,2.0,5.0
+1991,1991 FIFA Women's World Cup,semi-final,Norway,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1991,1991 FIFA Women's World Cup,semi-final,Sweden,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1991,1991 FIFA Women's World Cup,semi-final,United States,5,2,3.0,1,0,0,1,100.0,5.0,2.0
+1991,1991 FIFA Women's World Cup,third-place match,Germany,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1991,1991 FIFA Women's World Cup,third-place match,Sweden,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1994,1994 FIFA Men's World Cup,final,Brazil,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1994,1994 FIFA Men's World Cup,final,Italy,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1994,1994 FIFA Men's World Cup,group stage,Argentina,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1994,1994 FIFA Men's World Cup,group stage,Belgium,2,1,0.3333333333333333,2,1,0,3,66.66666666666666,0.6666666666666666,0.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Bolivia,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Brazil,6,1,1.6666666666666667,2,0,1,3,66.66666666666666,2.0,0.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Bulgaria,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1994,1994 FIFA Men's World Cup,group stage,Cameroon,3,11,-2.6666666666666665,0,2,1,3,0.0,1.0,3.6666666666666665
+1994,1994 FIFA Men's World Cup,group stage,Colombia,4,5,-0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+1994,1994 FIFA Men's World Cup,group stage,Germany,5,3,0.6666666666666666,2,0,1,3,66.66666666666666,1.6666666666666667,1.0
+1994,1994 FIFA Men's World Cup,group stage,Greece,0,10,-3.3333333333333335,0,3,0,3,0.0,0.0,3.3333333333333335
+1994,1994 FIFA Men's World Cup,group stage,Italy,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1994,1994 FIFA Men's World Cup,group stage,Mexico,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+1994,1994 FIFA Men's World Cup,group stage,Morocco,2,5,-1.0,0,3,0,3,0.0,0.6666666666666666,1.6666666666666667
+1994,1994 FIFA Men's World Cup,group stage,Netherlands,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+1994,1994 FIFA Men's World Cup,group stage,Nigeria,6,2,1.3333333333333333,2,1,0,3,66.66666666666666,2.0,0.6666666666666666
+1994,1994 FIFA Men's World Cup,group stage,Norway,1,1,0.0,1,1,1,3,33.33333333333333,0.3333333333333333,0.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Republic of Ireland,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+1994,1994 FIFA Men's World Cup,group stage,Romania,5,5,0.0,2,1,0,3,66.66666666666666,1.6666666666666667,1.6666666666666667
+1994,1994 FIFA Men's World Cup,group stage,Russia,7,6,0.3333333333333333,1,2,0,3,33.33333333333333,2.3333333333333335,2.0
+1994,1994 FIFA Men's World Cup,group stage,Saudi Arabia,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+1994,1994 FIFA Men's World Cup,group stage,South Korea,4,5,-0.3333333333333333,0,1,2,3,0.0,1.3333333333333333,1.6666666666666667
+1994,1994 FIFA Men's World Cup,group stage,Spain,6,4,0.6666666666666666,1,0,2,3,33.33333333333333,2.0,1.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Sweden,6,4,0.6666666666666666,1,0,2,3,33.33333333333333,2.0,1.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,Switzerland,5,4,0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+1994,1994 FIFA Men's World Cup,group stage,United States,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Brazil,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Bulgaria,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Germany,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Netherlands,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Romania,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Spain,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1994,1994 FIFA Men's World Cup,quarter-finals,Sweden,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+1994,1994 FIFA Men's World Cup,round of 16,Argentina,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1994,1994 FIFA Men's World Cup,round of 16,Belgium,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1994,1994 FIFA Men's World Cup,round of 16,Brazil,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1994,1994 FIFA Men's World Cup,round of 16,Bulgaria,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1994,1994 FIFA Men's World Cup,round of 16,Germany,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1994,1994 FIFA Men's World Cup,round of 16,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1994,1994 FIFA Men's World Cup,round of 16,Mexico,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1994,1994 FIFA Men's World Cup,round of 16,Netherlands,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1994,1994 FIFA Men's World Cup,round of 16,Nigeria,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1994,1994 FIFA Men's World Cup,round of 16,Republic of Ireland,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1994,1994 FIFA Men's World Cup,round of 16,Romania,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1994,1994 FIFA Men's World Cup,round of 16,Saudi Arabia,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1994,1994 FIFA Men's World Cup,round of 16,Spain,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1994,1994 FIFA Men's World Cup,round of 16,Sweden,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1994,1994 FIFA Men's World Cup,round of 16,Switzerland,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1994,1994 FIFA Men's World Cup,round of 16,United States,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1994,1994 FIFA Men's World Cup,semi-finals,Brazil,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1994,1994 FIFA Men's World Cup,semi-finals,Bulgaria,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1994,1994 FIFA Men's World Cup,semi-finals,Italy,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1994,1994 FIFA Men's World Cup,semi-finals,Sweden,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1994,1994 FIFA Men's World Cup,third-place match,Bulgaria,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1994,1994 FIFA Men's World Cup,third-place match,Sweden,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1995,1995 FIFA Women's World Cup,final,Germany,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1995,1995 FIFA Women's World Cup,final,Norway,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1995,1995 FIFA Women's World Cup,group stage,Australia,3,13,-3.3333333333333335,0,3,0,3,0.0,1.0,4.333333333333333
+1995,1995 FIFA Women's World Cup,group stage,Brazil,3,8,-1.6666666666666667,1,2,0,3,33.33333333333333,1.0,2.6666666666666665
+1995,1995 FIFA Women's World Cup,group stage,Canada,5,13,-2.6666666666666665,0,2,1,3,0.0,1.6666666666666667,4.333333333333333
+1995,1995 FIFA Women's World Cup,group stage,China,10,6,1.3333333333333333,2,0,1,3,66.66666666666666,3.3333333333333335,2.0
+1995,1995 FIFA Women's World Cup,group stage,Denmark,6,5,0.3333333333333333,1,2,0,3,33.33333333333333,2.0,1.6666666666666667
+1995,1995 FIFA Women's World Cup,group stage,England,6,6,0.0,2,1,0,3,66.66666666666666,2.0,2.0
+1995,1995 FIFA Women's World Cup,group stage,Germany,9,4,1.6666666666666667,2,1,0,3,66.66666666666666,3.0,1.3333333333333333
+1995,1995 FIFA Women's World Cup,group stage,Japan,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+1995,1995 FIFA Women's World Cup,group stage,Nigeria,5,14,-3.0,0,2,1,3,0.0,1.6666666666666667,4.666666666666667
+1995,1995 FIFA Women's World Cup,group stage,Norway,17,0,5.666666666666667,3,0,0,3,100.0,5.666666666666667,0.0
+1995,1995 FIFA Women's World Cup,group stage,Sweden,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+1995,1995 FIFA Women's World Cup,group stage,United States,9,4,1.6666666666666667,2,0,1,3,66.66666666666666,3.0,1.3333333333333333
+1995,1995 FIFA Women's World Cup,quarter-final,China,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1995,1995 FIFA Women's World Cup,quarter-final,Denmark,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1995,1995 FIFA Women's World Cup,quarter-final,England,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1995,1995 FIFA Women's World Cup,quarter-final,Germany,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1995,1995 FIFA Women's World Cup,quarter-final,Japan,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+1995,1995 FIFA Women's World Cup,quarter-final,Norway,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1995,1995 FIFA Women's World Cup,quarter-final,Sweden,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1995,1995 FIFA Women's World Cup,quarter-final,United States,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+1995,1995 FIFA Women's World Cup,semi-final,China,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1995,1995 FIFA Women's World Cup,semi-final,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1995,1995 FIFA Women's World Cup,semi-final,Norway,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1995,1995 FIFA Women's World Cup,semi-final,United States,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1995,1995 FIFA Women's World Cup,third-place match,China,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1995,1995 FIFA Women's World Cup,third-place match,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1998,1998 FIFA Men's World Cup,final,Brazil,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1998,1998 FIFA Men's World Cup,final,France,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1998,1998 FIFA Men's World Cup,group stage,Argentina,7,0,2.3333333333333335,3,0,0,3,100.0,2.3333333333333335,0.0
+1998,1998 FIFA Men's World Cup,group stage,Austria,3,4,-0.3333333333333333,0,1,2,3,0.0,1.0,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Belgium,3,3,0.0,0,0,3,3,0.0,1.0,1.0
+1998,1998 FIFA Men's World Cup,group stage,Brazil,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1998,1998 FIFA Men's World Cup,group stage,Bulgaria,1,7,-2.0,0,2,1,3,0.0,0.3333333333333333,2.3333333333333335
+1998,1998 FIFA Men's World Cup,group stage,Cameroon,2,5,-1.0,0,1,2,3,0.0,0.6666666666666666,1.6666666666666667
+1998,1998 FIFA Men's World Cup,group stage,Chile,4,4,0.0,0,0,3,3,0.0,1.3333333333333333,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Colombia,1,3,-0.6666666666666666,1,2,0,3,33.33333333333333,0.3333333333333333,1.0
+1998,1998 FIFA Men's World Cup,group stage,Croatia,4,2,0.6666666666666666,2,1,0,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+1998,1998 FIFA Men's World Cup,group stage,Denmark,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+1998,1998 FIFA Men's World Cup,group stage,England,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+1998,1998 FIFA Men's World Cup,group stage,France,9,1,2.6666666666666665,3,0,0,3,100.0,3.0,0.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Germany,6,2,1.3333333333333333,2,0,1,3,66.66666666666666,2.0,0.6666666666666666
+1998,1998 FIFA Men's World Cup,group stage,Iran,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Italy,7,3,1.3333333333333333,2,0,1,3,66.66666666666666,2.3333333333333335,1.0
+1998,1998 FIFA Men's World Cup,group stage,Jamaica,3,9,-2.0,1,2,0,3,33.33333333333333,1.0,3.0
+1998,1998 FIFA Men's World Cup,group stage,Japan,1,4,-1.0,0,3,0,3,0.0,0.3333333333333333,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Mexico,7,5,0.6666666666666666,1,0,2,3,33.33333333333333,2.3333333333333335,1.6666666666666667
+1998,1998 FIFA Men's World Cup,group stage,Morocco,5,5,0.0,1,1,1,3,33.33333333333333,1.6666666666666667,1.6666666666666667
+1998,1998 FIFA Men's World Cup,group stage,Netherlands,7,2,1.6666666666666667,1,0,2,3,33.33333333333333,2.3333333333333335,0.6666666666666666
+1998,1998 FIFA Men's World Cup,group stage,Nigeria,5,5,0.0,2,1,0,3,66.66666666666666,1.6666666666666667,1.6666666666666667
+1998,1998 FIFA Men's World Cup,group stage,Norway,5,4,0.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Paraguay,3,1,0.6666666666666666,1,0,2,3,33.33333333333333,1.0,0.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Romania,4,2,0.6666666666666666,2,0,1,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+1998,1998 FIFA Men's World Cup,group stage,Saudi Arabia,2,7,-1.6666666666666667,0,2,1,3,0.0,0.6666666666666666,2.3333333333333335
+1998,1998 FIFA Men's World Cup,group stage,Scotland,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+1998,1998 FIFA Men's World Cup,group stage,South Africa,3,6,-1.0,0,1,2,3,0.0,1.0,2.0
+1998,1998 FIFA Men's World Cup,group stage,South Korea,2,9,-2.3333333333333335,0,2,1,3,0.0,0.6666666666666666,3.0
+1998,1998 FIFA Men's World Cup,group stage,Spain,8,4,1.3333333333333333,1,1,1,3,33.33333333333333,2.6666666666666665,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,Tunisia,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+1998,1998 FIFA Men's World Cup,group stage,United States,1,5,-1.3333333333333333,0,3,0,3,0.0,0.3333333333333333,1.6666666666666667
+1998,1998 FIFA Men's World Cup,group stage,Yugoslavia,4,2,0.6666666666666666,2,0,1,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+1998,1998 FIFA Men's World Cup,quarter-finals,Argentina,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Brazil,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Croatia,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Denmark,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1998,1998 FIFA Men's World Cup,quarter-finals,France,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Germany,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Italy,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1998,1998 FIFA Men's World Cup,quarter-finals,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Argentina,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+1998,1998 FIFA Men's World Cup,round of 16,Brazil,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Chile,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1998,1998 FIFA Men's World Cup,round of 16,Croatia,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1998,1998 FIFA Men's World Cup,round of 16,Denmark,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,England,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+1998,1998 FIFA Men's World Cup,round of 16,France,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1998,1998 FIFA Men's World Cup,round of 16,Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Italy,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+1998,1998 FIFA Men's World Cup,round of 16,Mexico,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1998,1998 FIFA Men's World Cup,round of 16,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Nigeria,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+1998,1998 FIFA Men's World Cup,round of 16,Norway,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Paraguay,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Romania,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+1998,1998 FIFA Men's World Cup,round of 16,Yugoslavia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1998,1998 FIFA Men's World Cup,semi-finals,Brazil,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+1998,1998 FIFA Men's World Cup,semi-finals,Croatia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1998,1998 FIFA Men's World Cup,semi-finals,France,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1998,1998 FIFA Men's World Cup,semi-finals,Netherlands,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+1998,1998 FIFA Men's World Cup,third-place match,Croatia,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+1998,1998 FIFA Men's World Cup,third-place match,Netherlands,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+1999,1999 FIFA Women's World Cup,final,China,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+1999,1999 FIFA Women's World Cup,final,United States,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1999,1999 FIFA Women's World Cup,group stage,Australia,3,7,-1.3333333333333333,0,2,1,3,0.0,1.0,2.3333333333333335
+1999,1999 FIFA Women's World Cup,group stage,Brazil,12,4,2.6666666666666665,2,0,1,3,66.66666666666666,4.0,1.3333333333333333
+1999,1999 FIFA Women's World Cup,group stage,Canada,3,12,-3.0,0,2,1,3,0.0,1.0,4.0
+1999,1999 FIFA Women's World Cup,group stage,China,12,2,3.3333333333333335,3,0,0,3,100.0,4.0,0.6666666666666666
+1999,1999 FIFA Women's World Cup,group stage,Denmark,1,8,-2.3333333333333335,0,3,0,3,0.0,0.3333333333333333,2.6666666666666665
+1999,1999 FIFA Women's World Cup,group stage,Germany,10,4,2.0,1,0,2,3,33.33333333333333,3.3333333333333335,1.3333333333333333
+1999,1999 FIFA Women's World Cup,group stage,Ghana,1,10,-3.0,0,2,1,3,0.0,0.3333333333333333,3.3333333333333335
+1999,1999 FIFA Women's World Cup,group stage,Italy,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+1999,1999 FIFA Women's World Cup,group stage,Japan,1,10,-3.0,0,2,1,3,0.0,0.3333333333333333,3.3333333333333335
+1999,1999 FIFA Women's World Cup,group stage,Mexico,1,15,-4.666666666666667,0,3,0,3,0.0,0.3333333333333333,5.0
+1999,1999 FIFA Women's World Cup,group stage,Nigeria,5,8,-1.0,2,1,0,3,66.66666666666666,1.6666666666666667,2.6666666666666665
+1999,1999 FIFA Women's World Cup,group stage,North Korea,4,6,-0.6666666666666666,1,2,0,3,33.33333333333333,1.3333333333333333,2.0
+1999,1999 FIFA Women's World Cup,group stage,Norway,13,2,3.6666666666666665,3,0,0,3,100.0,4.333333333333333,0.6666666666666666
+1999,1999 FIFA Women's World Cup,group stage,Russia,10,3,2.3333333333333335,2,1,0,3,66.66666666666666,3.3333333333333335,1.0
+1999,1999 FIFA Women's World Cup,group stage,Sweden,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+1999,1999 FIFA Women's World Cup,group stage,United States,13,1,4.0,3,0,0,3,100.0,4.333333333333333,0.3333333333333333
+1999,1999 FIFA Women's World Cup,quarter-final,Brazil,4,3,1.0,1,0,0,1,100.0,4.0,3.0
+1999,1999 FIFA Women's World Cup,quarter-final,China,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1999,1999 FIFA Women's World Cup,quarter-final,Germany,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+1999,1999 FIFA Women's World Cup,quarter-final,Nigeria,3,4,-1.0,0,1,0,1,0.0,3.0,4.0
+1999,1999 FIFA Women's World Cup,quarter-final,Norway,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+1999,1999 FIFA Women's World Cup,quarter-final,Russia,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1999,1999 FIFA Women's World Cup,quarter-final,Sweden,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+1999,1999 FIFA Women's World Cup,quarter-final,United States,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+1999,1999 FIFA Women's World Cup,semi-final,Brazil,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+1999,1999 FIFA Women's World Cup,semi-final,China,5,0,5.0,1,0,0,1,100.0,5.0,0.0
+1999,1999 FIFA Women's World Cup,semi-final,Norway,0,5,-5.0,0,1,0,1,0.0,0.0,5.0
+1999,1999 FIFA Women's World Cup,semi-final,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+1999,1999 FIFA Women's World Cup,third-place match,Brazil,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+1999,1999 FIFA Women's World Cup,third-place match,Norway,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2002,2002 FIFA Men's World Cup,final,Brazil,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2002,2002 FIFA Men's World Cup,final,Germany,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2002,2002 FIFA Men's World Cup,group stage,Argentina,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2002,2002 FIFA Men's World Cup,group stage,Belgium,6,5,0.3333333333333333,1,0,2,3,33.33333333333333,2.0,1.6666666666666667
+2002,2002 FIFA Men's World Cup,group stage,Brazil,11,3,2.6666666666666665,3,0,0,3,100.0,3.6666666666666665,1.0
+2002,2002 FIFA Men's World Cup,group stage,Cameroon,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+2002,2002 FIFA Men's World Cup,group stage,China,0,9,-3.0,0,3,0,3,0.0,0.0,3.0
+2002,2002 FIFA Men's World Cup,group stage,Costa Rica,5,6,-0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,2.0
+2002,2002 FIFA Men's World Cup,group stage,Croatia,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+2002,2002 FIFA Men's World Cup,group stage,Denmark,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2002,2002 FIFA Men's World Cup,group stage,Ecuador,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,England,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,France,0,3,-1.0,0,2,1,3,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,group stage,Germany,11,1,3.3333333333333335,2,0,1,3,66.66666666666666,3.6666666666666665,0.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Italy,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+2002,2002 FIFA Men's World Cup,group stage,Japan,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2002,2002 FIFA Men's World Cup,group stage,Mexico,4,2,0.6666666666666666,2,0,1,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+2002,2002 FIFA Men's World Cup,group stage,Nigeria,1,3,-0.6666666666666666,0,2,1,3,0.0,0.3333333333333333,1.0
+2002,2002 FIFA Men's World Cup,group stage,Paraguay,6,6,0.0,1,1,1,3,33.33333333333333,2.0,2.0
+2002,2002 FIFA Men's World Cup,group stage,Poland,3,7,-1.3333333333333333,1,2,0,3,33.33333333333333,1.0,2.3333333333333335
+2002,2002 FIFA Men's World Cup,group stage,Portugal,6,4,0.6666666666666666,1,2,0,3,33.33333333333333,2.0,1.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Republic of Ireland,5,2,1.0,1,0,2,3,33.33333333333333,1.6666666666666667,0.6666666666666666
+2002,2002 FIFA Men's World Cup,group stage,Russia,4,4,0.0,1,2,0,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Saudi Arabia,0,12,-4.0,0,3,0,3,0.0,0.0,4.0
+2002,2002 FIFA Men's World Cup,group stage,Senegal,5,4,0.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Slovenia,2,7,-1.6666666666666667,0,3,0,3,0.0,0.6666666666666666,2.3333333333333335
+2002,2002 FIFA Men's World Cup,group stage,South Africa,5,5,0.0,1,1,1,3,33.33333333333333,1.6666666666666667,1.6666666666666667
+2002,2002 FIFA Men's World Cup,group stage,South Korea,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Spain,9,4,1.6666666666666667,3,0,0,3,100.0,3.0,1.3333333333333333
+2002,2002 FIFA Men's World Cup,group stage,Sweden,4,3,0.3333333333333333,1,0,2,3,33.33333333333333,1.3333333333333333,1.0
+2002,2002 FIFA Men's World Cup,group stage,Tunisia,1,5,-1.3333333333333333,0,2,1,3,0.0,0.3333333333333333,1.6666666666666667
+2002,2002 FIFA Men's World Cup,group stage,Turkey,5,3,0.6666666666666666,1,1,1,3,33.33333333333333,1.6666666666666667,1.0
+2002,2002 FIFA Men's World Cup,group stage,United States,5,6,-0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,2.0
+2002,2002 FIFA Men's World Cup,group stage,Uruguay,4,5,-0.3333333333333333,0,1,2,3,0.0,1.3333333333333333,1.6666666666666667
+2002,2002 FIFA Men's World Cup,quarter-finals,Brazil,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2002,2002 FIFA Men's World Cup,quarter-finals,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2002,2002 FIFA Men's World Cup,quarter-finals,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,quarter-finals,Senegal,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,quarter-finals,South Korea,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2002,2002 FIFA Men's World Cup,quarter-finals,Spain,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2002,2002 FIFA Men's World Cup,quarter-finals,Turkey,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,quarter-finals,United States,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Belgium,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2002,2002 FIFA Men's World Cup,round of 16,Brazil,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2002,2002 FIFA Men's World Cup,round of 16,Denmark,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2002,2002 FIFA Men's World Cup,round of 16,England,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2002,2002 FIFA Men's World Cup,round of 16,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,round of 16,Italy,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2002,2002 FIFA Men's World Cup,round of 16,Japan,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Mexico,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2002,2002 FIFA Men's World Cup,round of 16,Paraguay,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Republic of Ireland,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Senegal,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,South Korea,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Spain,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2002,2002 FIFA Men's World Cup,round of 16,Sweden,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2002,2002 FIFA Men's World Cup,round of 16,Turkey,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,round of 16,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2002,2002 FIFA Men's World Cup,semi-finals,Brazil,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,semi-finals,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2002,2002 FIFA Men's World Cup,semi-finals,South Korea,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,semi-finals,Turkey,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2002,2002 FIFA Men's World Cup,third-place match,South Korea,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+2002,2002 FIFA Men's World Cup,third-place match,Turkey,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+2003,2003 FIFA Women's World Cup,final,Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2003,2003 FIFA Women's World Cup,final,Sweden,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2003,2003 FIFA Women's World Cup,group stage,Argentina,1,15,-4.666666666666667,0,3,0,3,0.0,0.3333333333333333,5.0
+2003,2003 FIFA Women's World Cup,group stage,Australia,3,5,-0.6666666666666666,0,2,1,3,0.0,1.0,1.6666666666666667
+2003,2003 FIFA Women's World Cup,group stage,Brazil,8,2,2.0,2,0,1,3,66.66666666666666,2.6666666666666665,0.6666666666666666
+2003,2003 FIFA Women's World Cup,group stage,Canada,7,5,0.6666666666666666,2,1,0,3,66.66666666666666,2.3333333333333335,1.6666666666666667
+2003,2003 FIFA Women's World Cup,group stage,China,3,1,0.6666666666666666,2,0,1,3,66.66666666666666,1.0,0.3333333333333333
+2003,2003 FIFA Women's World Cup,group stage,France,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+2003,2003 FIFA Women's World Cup,group stage,Germany,13,2,3.6666666666666665,3,0,0,3,100.0,4.333333333333333,0.6666666666666666
+2003,2003 FIFA Women's World Cup,group stage,Ghana,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+2003,2003 FIFA Women's World Cup,group stage,Japan,7,6,0.3333333333333333,1,2,0,3,33.33333333333333,2.3333333333333335,2.0
+2003,2003 FIFA Women's World Cup,group stage,Nigeria,0,11,-3.6666666666666665,0,3,0,3,0.0,0.0,3.6666666666666665
+2003,2003 FIFA Women's World Cup,group stage,North Korea,3,4,-0.3333333333333333,1,2,0,3,33.33333333333333,1.0,1.3333333333333333
+2003,2003 FIFA Women's World Cup,group stage,Norway,10,5,1.6666666666666667,2,1,0,3,66.66666666666666,3.3333333333333335,1.6666666666666667
+2003,2003 FIFA Women's World Cup,group stage,Russia,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2003,2003 FIFA Women's World Cup,group stage,South Korea,1,11,-3.3333333333333335,0,3,0,3,0.0,0.3333333333333333,3.6666666666666665
+2003,2003 FIFA Women's World Cup,group stage,Sweden,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+2003,2003 FIFA Women's World Cup,group stage,United States,11,1,3.3333333333333335,3,0,0,3,100.0,3.6666666666666665,0.3333333333333333
+2003,2003 FIFA Women's World Cup,quarter-final,Brazil,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2003,2003 FIFA Women's World Cup,quarter-final,Canada,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2003,2003 FIFA Women's World Cup,quarter-final,China,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2003,2003 FIFA Women's World Cup,quarter-final,Germany,7,1,6.0,1,0,0,1,100.0,7.0,1.0
+2003,2003 FIFA Women's World Cup,quarter-final,Norway,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2003,2003 FIFA Women's World Cup,quarter-final,Russia,1,7,-6.0,0,1,0,1,0.0,1.0,7.0
+2003,2003 FIFA Women's World Cup,quarter-final,Sweden,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2003,2003 FIFA Women's World Cup,quarter-final,United States,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2003,2003 FIFA Women's World Cup,semi-final,Canada,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2003,2003 FIFA Women's World Cup,semi-final,Germany,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2003,2003 FIFA Women's World Cup,semi-final,Sweden,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2003,2003 FIFA Women's World Cup,semi-final,United States,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2003,2003 FIFA Women's World Cup,third-place match,Canada,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2003,2003 FIFA Women's World Cup,third-place match,United States,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2006,2006 FIFA Men's World Cup,final,France,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2006,2006 FIFA Men's World Cup,final,Italy,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2006,2006 FIFA Men's World Cup,group stage,Angola,1,2,-0.3333333333333333,0,1,2,3,0.0,0.3333333333333333,0.6666666666666666
+2006,2006 FIFA Men's World Cup,group stage,Argentina,8,1,2.3333333333333335,2,0,1,3,66.66666666666666,2.6666666666666665,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Australia,5,5,0.0,1,1,1,3,33.33333333333333,1.6666666666666667,1.6666666666666667
+2006,2006 FIFA Men's World Cup,group stage,Brazil,7,1,2.0,3,0,0,3,100.0,2.3333333333333335,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Costa Rica,3,9,-2.0,0,3,0,3,0.0,1.0,3.0
+2006,2006 FIFA Men's World Cup,group stage,Croatia,2,3,-0.3333333333333333,0,1,2,3,0.0,0.6666666666666666,1.0
+2006,2006 FIFA Men's World Cup,group stage,Czech Republic,3,4,-0.3333333333333333,1,2,0,3,33.33333333333333,1.0,1.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Ecuador,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+2006,2006 FIFA Men's World Cup,group stage,England,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2006,2006 FIFA Men's World Cup,group stage,France,3,1,0.6666666666666666,1,0,2,3,33.33333333333333,1.0,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Germany,8,2,2.0,3,0,0,3,100.0,2.6666666666666665,0.6666666666666666
+2006,2006 FIFA Men's World Cup,group stage,Ghana,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+2006,2006 FIFA Men's World Cup,group stage,Iran,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+2006,2006 FIFA Men's World Cup,group stage,Italy,5,1,1.3333333333333333,2,0,1,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Ivory Coast,5,6,-0.3333333333333333,1,2,0,3,33.33333333333333,1.6666666666666667,2.0
+2006,2006 FIFA Men's World Cup,group stage,Japan,2,7,-1.6666666666666667,0,2,1,3,0.0,0.6666666666666666,2.3333333333333335
+2006,2006 FIFA Men's World Cup,group stage,Mexico,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+2006,2006 FIFA Men's World Cup,group stage,Netherlands,3,1,0.6666666666666666,2,0,1,3,66.66666666666666,1.0,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Paraguay,2,2,0.0,1,2,0,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2006,2006 FIFA Men's World Cup,group stage,Poland,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Portugal,5,1,1.3333333333333333,3,0,0,3,100.0,1.6666666666666667,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Saudi Arabia,2,7,-1.6666666666666667,0,2,1,3,0.0,0.6666666666666666,2.3333333333333335
+2006,2006 FIFA Men's World Cup,group stage,Serbia and Montenegro,2,10,-2.6666666666666665,0,3,0,3,0.0,0.6666666666666666,3.3333333333333335
+2006,2006 FIFA Men's World Cup,group stage,South Korea,3,4,-0.3333333333333333,1,1,1,3,33.33333333333333,1.0,1.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Spain,8,1,2.3333333333333335,3,0,0,3,100.0,2.6666666666666665,0.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Sweden,3,2,0.3333333333333333,1,0,2,3,33.33333333333333,1.0,0.6666666666666666
+2006,2006 FIFA Men's World Cup,group stage,Switzerland,4,0,1.3333333333333333,2,0,1,3,66.66666666666666,1.3333333333333333,0.0
+2006,2006 FIFA Men's World Cup,group stage,Togo,1,6,-1.6666666666666667,0,3,0,3,0.0,0.3333333333333333,2.0
+2006,2006 FIFA Men's World Cup,group stage,Trinidad and Tobago,0,4,-1.3333333333333333,0,2,1,3,0.0,0.0,1.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,Tunisia,3,6,-1.0,0,2,1,3,0.0,1.0,2.0
+2006,2006 FIFA Men's World Cup,group stage,Ukraine,5,4,0.3333333333333333,2,1,0,3,66.66666666666666,1.6666666666666667,1.3333333333333333
+2006,2006 FIFA Men's World Cup,group stage,United States,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Argentina,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Brazil,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2006,2006 FIFA Men's World Cup,quarter-finals,England,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2006,2006 FIFA Men's World Cup,quarter-finals,France,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Germany,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Italy,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Portugal,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2006,2006 FIFA Men's World Cup,quarter-finals,Ukraine,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2006,2006 FIFA Men's World Cup,round of 16,Argentina,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2006,2006 FIFA Men's World Cup,round of 16,Australia,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2006,2006 FIFA Men's World Cup,round of 16,Brazil,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,Ecuador,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2006,2006 FIFA Men's World Cup,round of 16,England,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,France,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2006,2006 FIFA Men's World Cup,round of 16,Germany,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,Ghana,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2006,2006 FIFA Men's World Cup,round of 16,Italy,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,Mexico,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2006,2006 FIFA Men's World Cup,round of 16,Netherlands,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2006,2006 FIFA Men's World Cup,round of 16,Portugal,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,Spain,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2006,2006 FIFA Men's World Cup,round of 16,Sweden,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2006,2006 FIFA Men's World Cup,round of 16,Switzerland,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2006,2006 FIFA Men's World Cup,round of 16,Ukraine,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2006,2006 FIFA Men's World Cup,semi-finals,France,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2006,2006 FIFA Men's World Cup,semi-finals,Germany,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2006,2006 FIFA Men's World Cup,semi-finals,Italy,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2006,2006 FIFA Men's World Cup,semi-finals,Portugal,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2006,2006 FIFA Men's World Cup,third-place match,Germany,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2006,2006 FIFA Men's World Cup,third-place match,Portugal,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2007,2007 FIFA Women's World Cup,final,Brazil,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2007,2007 FIFA Women's World Cup,final,Germany,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2007,2007 FIFA Women's World Cup,group stage,Argentina,1,18,-5.666666666666667,0,3,0,3,0.0,0.3333333333333333,6.0
+2007,2007 FIFA Women's World Cup,group stage,Australia,7,4,1.0,1,0,2,3,33.33333333333333,2.3333333333333335,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,Brazil,10,0,3.3333333333333335,3,0,0,3,100.0,3.3333333333333335,0.0
+2007,2007 FIFA Women's World Cup,group stage,Canada,7,4,1.0,1,1,1,3,33.33333333333333,2.3333333333333335,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,China,5,6,-0.3333333333333333,2,1,0,3,66.66666666666666,1.6666666666666667,2.0
+2007,2007 FIFA Women's World Cup,group stage,Denmark,4,4,0.0,1,2,0,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,England,8,3,1.6666666666666667,1,0,2,3,33.33333333333333,2.6666666666666665,1.0
+2007,2007 FIFA Women's World Cup,group stage,Germany,13,0,4.333333333333333,2,0,1,3,66.66666666666666,4.333333333333333,0.0
+2007,2007 FIFA Women's World Cup,group stage,Ghana,3,15,-4.0,0,3,0,3,0.0,1.0,5.0
+2007,2007 FIFA Women's World Cup,group stage,Japan,3,4,-0.3333333333333333,1,1,1,3,33.33333333333333,1.0,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,New Zealand,0,9,-3.0,0,3,0,3,0.0,0.0,3.0
+2007,2007 FIFA Women's World Cup,group stage,Nigeria,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,North Korea,5,4,0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,Norway,10,4,2.0,2,0,1,3,66.66666666666666,3.3333333333333335,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,Sweden,3,4,-0.3333333333333333,1,1,1,3,33.33333333333333,1.0,1.3333333333333333
+2007,2007 FIFA Women's World Cup,group stage,United States,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2007,2007 FIFA Women's World Cup,quarter-final,Australia,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+2007,2007 FIFA Women's World Cup,quarter-final,Brazil,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+2007,2007 FIFA Women's World Cup,quarter-final,China,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2007,2007 FIFA Women's World Cup,quarter-final,England,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2007,2007 FIFA Women's World Cup,quarter-final,Germany,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2007,2007 FIFA Women's World Cup,quarter-final,North Korea,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2007,2007 FIFA Women's World Cup,quarter-final,Norway,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2007,2007 FIFA Women's World Cup,quarter-final,United States,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2007,2007 FIFA Women's World Cup,semi-final,Brazil,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+2007,2007 FIFA Women's World Cup,semi-final,Germany,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2007,2007 FIFA Women's World Cup,semi-final,Norway,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2007,2007 FIFA Women's World Cup,semi-final,United States,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+2007,2007 FIFA Women's World Cup,third-place match,Norway,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+2007,2007 FIFA Women's World Cup,third-place match,United States,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+2010,2010 FIFA Men's World Cup,final,Netherlands,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2010,2010 FIFA Men's World Cup,final,Spain,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2010,2010 FIFA Men's World Cup,group stage,Algeria,0,2,-0.6666666666666666,0,2,1,3,0.0,0.0,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Argentina,7,1,2.0,3,0,0,3,100.0,2.3333333333333335,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,Australia,3,6,-1.0,1,1,1,3,33.33333333333333,1.0,2.0
+2010,2010 FIFA Men's World Cup,group stage,Brazil,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Cameroon,2,5,-1.0,0,3,0,3,0.0,0.6666666666666666,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,Chile,3,2,0.3333333333333333,2,1,0,3,66.66666666666666,1.0,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Denmark,3,6,-1.0,1,2,0,3,33.33333333333333,1.0,2.0
+2010,2010 FIFA Men's World Cup,group stage,England,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,France,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,Germany,5,1,1.3333333333333333,2,1,0,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,Ghana,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Greece,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,Honduras,0,3,-1.0,0,2,1,3,0.0,0.0,1.0
+2010,2010 FIFA Men's World Cup,group stage,Italy,4,5,-0.3333333333333333,0,1,2,3,0.0,1.3333333333333333,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,Ivory Coast,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+2010,2010 FIFA Men's World Cup,group stage,Japan,4,2,0.6666666666666666,2,1,0,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Mexico,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Netherlands,5,1,1.3333333333333333,3,0,0,3,100.0,1.6666666666666667,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,New Zealand,2,2,0.0,0,0,3,3,0.0,0.6666666666666666,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Nigeria,3,5,-0.6666666666666666,0,2,1,3,0.0,1.0,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,North Korea,1,12,-3.6666666666666665,0,3,0,3,0.0,0.3333333333333333,4.0
+2010,2010 FIFA Men's World Cup,group stage,Paraguay,3,1,0.6666666666666666,1,0,2,3,33.33333333333333,1.0,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,Portugal,7,0,2.3333333333333335,1,0,2,3,33.33333333333333,2.3333333333333335,0.0
+2010,2010 FIFA Men's World Cup,group stage,Serbia,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+2010,2010 FIFA Men's World Cup,group stage,Slovakia,4,5,-0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,Slovenia,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+2010,2010 FIFA Men's World Cup,group stage,South Africa,3,5,-0.6666666666666666,1,1,1,3,33.33333333333333,1.0,1.6666666666666667
+2010,2010 FIFA Men's World Cup,group stage,South Korea,5,6,-0.3333333333333333,1,1,1,3,33.33333333333333,1.6666666666666667,2.0
+2010,2010 FIFA Men's World Cup,group stage,Spain,4,2,0.6666666666666666,2,1,0,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+2010,2010 FIFA Men's World Cup,group stage,Switzerland,1,1,0.0,1,1,1,3,33.33333333333333,0.3333333333333333,0.3333333333333333
+2010,2010 FIFA Men's World Cup,group stage,United States,4,3,0.3333333333333333,1,0,2,3,33.33333333333333,1.3333333333333333,1.0
+2010,2010 FIFA Men's World Cup,group stage,Uruguay,4,0,1.3333333333333333,2,0,1,3,66.66666666666666,1.3333333333333333,0.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Argentina,0,4,-4.0,0,1,0,1,0.0,0.0,4.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Brazil,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Germany,4,0,4.0,1,0,0,1,100.0,4.0,0.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Ghana,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Paraguay,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Spain,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2010,2010 FIFA Men's World Cup,quarter-finals,Uruguay,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Argentina,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Brazil,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2010,2010 FIFA Men's World Cup,round of 16,Chile,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2010,2010 FIFA Men's World Cup,round of 16,England,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+2010,2010 FIFA Men's World Cup,round of 16,Germany,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Ghana,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Japan,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2010,2010 FIFA Men's World Cup,round of 16,Mexico,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2010,2010 FIFA Men's World Cup,round of 16,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Paraguay,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2010,2010 FIFA Men's World Cup,round of 16,Portugal,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2010,2010 FIFA Men's World Cup,round of 16,Slovakia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2010,2010 FIFA Men's World Cup,round of 16,South Korea,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2010,2010 FIFA Men's World Cup,round of 16,Spain,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2010,2010 FIFA Men's World Cup,round of 16,United States,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2010,2010 FIFA Men's World Cup,round of 16,Uruguay,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2010,2010 FIFA Men's World Cup,semi-finals,Germany,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2010,2010 FIFA Men's World Cup,semi-finals,Netherlands,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+2010,2010 FIFA Men's World Cup,semi-finals,Spain,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2010,2010 FIFA Men's World Cup,semi-finals,Uruguay,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+2010,2010 FIFA Men's World Cup,third-place match,Germany,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+2010,2010 FIFA Men's World Cup,third-place match,Uruguay,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+2011,2011 FIFA Women's World Cup,final,Japan,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+2011,2011 FIFA Women's World Cup,final,United States,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+2011,2011 FIFA Women's World Cup,group stage,Australia,5,4,0.3333333333333333,2,1,0,3,66.66666666666666,1.6666666666666667,1.3333333333333333
+2011,2011 FIFA Women's World Cup,group stage,Brazil,7,0,2.3333333333333335,3,0,0,3,100.0,2.3333333333333335,0.0
+2011,2011 FIFA Women's World Cup,group stage,Canada,1,7,-2.0,0,3,0,3,0.0,0.3333333333333333,2.3333333333333335
+2011,2011 FIFA Women's World Cup,group stage,Colombia,0,4,-1.3333333333333333,0,2,1,3,0.0,0.0,1.3333333333333333
+2011,2011 FIFA Women's World Cup,group stage,England,5,2,1.0,2,0,1,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2011,2011 FIFA Women's World Cup,group stage,Equatorial Guinea,2,7,-1.6666666666666667,0,3,0,3,0.0,0.6666666666666666,2.3333333333333335
+2011,2011 FIFA Women's World Cup,group stage,France,7,4,1.0,2,1,0,3,66.66666666666666,2.3333333333333335,1.3333333333333333
+2011,2011 FIFA Women's World Cup,group stage,Germany,7,3,1.3333333333333333,3,0,0,3,100.0,2.3333333333333335,1.0
+2011,2011 FIFA Women's World Cup,group stage,Japan,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+2011,2011 FIFA Women's World Cup,group stage,Mexico,3,7,-1.3333333333333333,0,1,2,3,0.0,1.0,2.3333333333333335
+2011,2011 FIFA Women's World Cup,group stage,New Zealand,4,6,-0.6666666666666666,0,2,1,3,0.0,1.3333333333333333,2.0
+2011,2011 FIFA Women's World Cup,group stage,Nigeria,1,2,-0.3333333333333333,1,2,0,3,33.33333333333333,0.3333333333333333,0.6666666666666666
+2011,2011 FIFA Women's World Cup,group stage,North Korea,0,3,-1.0,0,2,1,3,0.0,0.0,1.0
+2011,2011 FIFA Women's World Cup,group stage,Norway,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+2011,2011 FIFA Women's World Cup,group stage,Sweden,4,1,1.0,3,0,0,3,100.0,1.3333333333333333,0.3333333333333333
+2011,2011 FIFA Women's World Cup,group stage,United States,6,2,1.3333333333333333,2,1,0,3,66.66666666666666,2.0,0.6666666666666666
+2011,2011 FIFA Women's World Cup,quarter-final,Australia,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2011,2011 FIFA Women's World Cup,quarter-final,Brazil,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+2011,2011 FIFA Women's World Cup,quarter-final,England,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2011,2011 FIFA Women's World Cup,quarter-final,France,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2011,2011 FIFA Women's World Cup,quarter-final,Germany,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2011,2011 FIFA Women's World Cup,quarter-final,Japan,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2011,2011 FIFA Women's World Cup,quarter-final,Sweden,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2011,2011 FIFA Women's World Cup,quarter-final,United States,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+2011,2011 FIFA Women's World Cup,semi-final,France,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2011,2011 FIFA Women's World Cup,semi-final,Japan,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2011,2011 FIFA Women's World Cup,semi-final,Sweden,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2011,2011 FIFA Women's World Cup,semi-final,United States,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2011,2011 FIFA Women's World Cup,third-place match,France,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2011,2011 FIFA Women's World Cup,third-place match,Sweden,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,final,Argentina,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2014,2014 FIFA Men's World Cup,final,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2014,2014 FIFA Men's World Cup,group stage,Algeria,6,5,0.3333333333333333,1,1,1,3,33.33333333333333,2.0,1.6666666666666667
+2014,2014 FIFA Men's World Cup,group stage,Argentina,6,3,1.0,3,0,0,3,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,group stage,Australia,3,9,-2.0,0,3,0,3,0.0,1.0,3.0
+2014,2014 FIFA Men's World Cup,group stage,Belgium,4,1,1.0,3,0,0,3,100.0,1.3333333333333333,0.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Bosnia and Herzegovina,4,4,0.0,1,2,0,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Brazil,7,2,1.6666666666666667,2,0,1,3,66.66666666666666,2.3333333333333335,0.6666666666666666
+2014,2014 FIFA Men's World Cup,group stage,Cameroon,1,9,-2.6666666666666665,0,3,0,3,0.0,0.3333333333333333,3.0
+2014,2014 FIFA Men's World Cup,group stage,Chile,5,3,0.6666666666666666,2,1,0,3,66.66666666666666,1.6666666666666667,1.0
+2014,2014 FIFA Men's World Cup,group stage,Colombia,9,2,2.3333333333333335,3,0,0,3,100.0,3.0,0.6666666666666666
+2014,2014 FIFA Men's World Cup,group stage,Costa Rica,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Croatia,6,6,0.0,1,2,0,3,33.33333333333333,2.0,2.0
+2014,2014 FIFA Men's World Cup,group stage,Ecuador,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+2014,2014 FIFA Men's World Cup,group stage,England,2,4,-0.6666666666666666,0,2,1,3,0.0,0.6666666666666666,1.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,France,8,2,2.0,2,0,1,3,66.66666666666666,2.6666666666666665,0.6666666666666666
+2014,2014 FIFA Men's World Cup,group stage,Germany,7,2,1.6666666666666667,2,0,1,3,66.66666666666666,2.3333333333333335,0.6666666666666666
+2014,2014 FIFA Men's World Cup,group stage,Ghana,4,6,-0.6666666666666666,0,2,1,3,0.0,1.3333333333333333,2.0
+2014,2014 FIFA Men's World Cup,group stage,Greece,2,4,-0.6666666666666666,1,1,1,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Honduras,1,8,-2.3333333333333335,0,3,0,3,0.0,0.3333333333333333,2.6666666666666665
+2014,2014 FIFA Men's World Cup,group stage,Iran,1,4,-1.0,0,2,1,3,0.0,0.3333333333333333,1.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Italy,2,3,-0.3333333333333333,1,2,0,3,33.33333333333333,0.6666666666666666,1.0
+2014,2014 FIFA Men's World Cup,group stage,Ivory Coast,4,5,-0.3333333333333333,1,2,0,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+2014,2014 FIFA Men's World Cup,group stage,Japan,2,6,-1.3333333333333333,0,2,1,3,0.0,0.6666666666666666,2.0
+2014,2014 FIFA Men's World Cup,group stage,Mexico,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Netherlands,10,3,2.3333333333333335,3,0,0,3,100.0,3.3333333333333335,1.0
+2014,2014 FIFA Men's World Cup,group stage,Nigeria,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+2014,2014 FIFA Men's World Cup,group stage,Portugal,4,7,-1.0,1,1,1,3,33.33333333333333,1.3333333333333333,2.3333333333333335
+2014,2014 FIFA Men's World Cup,group stage,Russia,2,3,-0.3333333333333333,0,1,2,3,0.0,0.6666666666666666,1.0
+2014,2014 FIFA Men's World Cup,group stage,South Korea,3,6,-1.0,0,2,1,3,0.0,1.0,2.0
+2014,2014 FIFA Men's World Cup,group stage,Spain,4,7,-1.0,1,2,0,3,33.33333333333333,1.3333333333333333,2.3333333333333335
+2014,2014 FIFA Men's World Cup,group stage,Switzerland,7,6,0.3333333333333333,2,1,0,3,66.66666666666666,2.3333333333333335,2.0
+2014,2014 FIFA Men's World Cup,group stage,United States,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2014,2014 FIFA Men's World Cup,group stage,Uruguay,4,4,0.0,2,1,0,3,66.66666666666666,1.3333333333333333,1.3333333333333333
+2014,2014 FIFA Men's World Cup,quarter-finals,Argentina,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Belgium,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Brazil,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Colombia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Costa Rica,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2014,2014 FIFA Men's World Cup,quarter-finals,France,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Germany,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2014,2014 FIFA Men's World Cup,quarter-finals,Netherlands,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2014,2014 FIFA Men's World Cup,round of 16,Algeria,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2014,2014 FIFA Men's World Cup,round of 16,Argentina,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2014,2014 FIFA Men's World Cup,round of 16,Belgium,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Brazil,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Chile,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Colombia,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2014,2014 FIFA Men's World Cup,round of 16,Costa Rica,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,France,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2014,2014 FIFA Men's World Cup,round of 16,Germany,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Greece,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Mexico,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2014,2014 FIFA Men's World Cup,round of 16,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,Nigeria,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2014,2014 FIFA Men's World Cup,round of 16,Switzerland,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2014,2014 FIFA Men's World Cup,round of 16,United States,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2014,2014 FIFA Men's World Cup,round of 16,Uruguay,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2014,2014 FIFA Men's World Cup,semi-finals,Argentina,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2014,2014 FIFA Men's World Cup,semi-finals,Brazil,1,7,-6.0,0,1,0,1,0.0,1.0,7.0
+2014,2014 FIFA Men's World Cup,semi-finals,Germany,7,1,6.0,1,0,0,1,100.0,7.0,1.0
+2014,2014 FIFA Men's World Cup,semi-finals,Netherlands,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2014,2014 FIFA Men's World Cup,third-place match,Brazil,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2014,2014 FIFA Men's World Cup,third-place match,Netherlands,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2015,2015 FIFA Women's World Cup,final,Japan,2,5,-3.0,0,1,0,1,0.0,2.0,5.0
+2015,2015 FIFA Women's World Cup,final,United States,5,2,3.0,1,0,0,1,100.0,5.0,2.0
+2015,2015 FIFA Women's World Cup,group stage,Australia,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Brazil,4,0,1.3333333333333333,3,0,0,3,100.0,1.3333333333333333,0.0
+2015,2015 FIFA Women's World Cup,group stage,Cameroon,9,3,2.0,2,1,0,3,66.66666666666666,3.0,1.0
+2015,2015 FIFA Women's World Cup,group stage,Canada,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,China,3,3,0.0,1,1,1,3,33.33333333333333,1.0,1.0
+2015,2015 FIFA Women's World Cup,group stage,Colombia,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+2015,2015 FIFA Women's World Cup,group stage,Costa Rica,3,4,-0.3333333333333333,0,1,2,3,0.0,1.0,1.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Ecuador,1,17,-5.333333333333333,0,3,0,3,0.0,0.3333333333333333,5.666666666666667
+2015,2015 FIFA Women's World Cup,group stage,England,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+2015,2015 FIFA Women's World Cup,group stage,France,6,2,1.3333333333333333,2,1,0,3,66.66666666666666,2.0,0.6666666666666666
+2015,2015 FIFA Women's World Cup,group stage,Germany,15,1,4.666666666666667,2,0,1,3,66.66666666666666,5.0,0.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Ivory Coast,3,16,-4.333333333333333,0,3,0,3,0.0,1.0,5.333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Japan,4,1,1.0,3,0,0,3,100.0,1.3333333333333333,0.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Mexico,2,8,-2.0,0,2,1,3,0.0,0.6666666666666666,2.6666666666666665
+2015,2015 FIFA Women's World Cup,group stage,Netherlands,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2015,2015 FIFA Women's World Cup,group stage,New Zealand,2,3,-0.3333333333333333,0,1,2,3,0.0,0.6666666666666666,1.0
+2015,2015 FIFA Women's World Cup,group stage,Nigeria,3,6,-1.0,0,2,1,3,0.0,1.0,2.0
+2015,2015 FIFA Women's World Cup,group stage,Norway,8,2,2.0,2,0,1,3,66.66666666666666,2.6666666666666665,0.6666666666666666
+2015,2015 FIFA Women's World Cup,group stage,South Korea,4,5,-0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.6666666666666667
+2015,2015 FIFA Women's World Cup,group stage,Spain,2,4,-0.6666666666666666,0,2,1,3,0.0,0.6666666666666666,1.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Sweden,4,4,0.0,0,0,3,3,0.0,1.3333333333333333,1.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Switzerland,11,4,2.3333333333333335,1,2,0,3,33.33333333333333,3.6666666666666665,1.3333333333333333
+2015,2015 FIFA Women's World Cup,group stage,Thailand,3,10,-2.3333333333333335,1,2,0,3,33.33333333333333,1.0,3.3333333333333335
+2015,2015 FIFA Women's World Cup,group stage,United States,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+2015,2015 FIFA Women's World Cup,quarter-final,Australia,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2015,2015 FIFA Women's World Cup,quarter-final,Canada,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2015,2015 FIFA Women's World Cup,quarter-final,China,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2015,2015 FIFA Women's World Cup,quarter-final,England,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2015,2015 FIFA Women's World Cup,quarter-final,France,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2015,2015 FIFA Women's World Cup,quarter-final,Germany,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2015,2015 FIFA Women's World Cup,quarter-final,Japan,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,quarter-final,United States,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,round of 16,Australia,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,round of 16,Brazil,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,Cameroon,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,Canada,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,round of 16,China,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,round of 16,Colombia,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2015,2015 FIFA Women's World Cup,round of 16,England,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,France,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2015,2015 FIFA Women's World Cup,round of 16,Germany,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,Japan,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,Netherlands,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2015,2015 FIFA Women's World Cup,round of 16,Norway,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2015,2015 FIFA Women's World Cup,round of 16,South Korea,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2015,2015 FIFA Women's World Cup,round of 16,Sweden,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+2015,2015 FIFA Women's World Cup,round of 16,Switzerland,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2015,2015 FIFA Women's World Cup,round of 16,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2015,2015 FIFA Women's World Cup,semi-final,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2015,2015 FIFA Women's World Cup,semi-final,Germany,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2015,2015 FIFA Women's World Cup,semi-final,Japan,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2015,2015 FIFA Women's World Cup,semi-final,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2015,2015 FIFA Women's World Cup,third-place match,England,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2015,2015 FIFA Women's World Cup,third-place match,Germany,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2018,2018 FIFA Men's World Cup,final,Croatia,2,4,-2.0,0,1,0,1,0.0,2.0,4.0
+2018,2018 FIFA Men's World Cup,final,France,4,2,2.0,1,0,0,1,100.0,4.0,2.0
+2018,2018 FIFA Men's World Cup,group stage,Argentina,3,5,-0.6666666666666666,1,1,1,3,33.33333333333333,1.0,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Australia,2,5,-1.0,0,2,1,3,0.0,0.6666666666666666,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Belgium,9,2,2.3333333333333335,3,0,0,3,100.0,3.0,0.6666666666666666
+2018,2018 FIFA Men's World Cup,group stage,Brazil,5,1,1.3333333333333333,2,0,1,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Colombia,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2018,2018 FIFA Men's World Cup,group stage,Costa Rica,2,5,-1.0,0,2,1,3,0.0,0.6666666666666666,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Croatia,7,1,2.0,3,0,0,3,100.0,2.3333333333333335,0.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Denmark,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Egypt,2,6,-1.3333333333333333,0,3,0,3,0.0,0.6666666666666666,2.0
+2018,2018 FIFA Men's World Cup,group stage,England,8,3,1.6666666666666667,2,1,0,3,66.66666666666666,2.6666666666666665,1.0
+2018,2018 FIFA Men's World Cup,group stage,France,3,1,0.6666666666666666,2,0,1,3,66.66666666666666,1.0,0.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Germany,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Iceland,2,5,-1.0,0,2,1,3,0.0,0.6666666666666666,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Iran,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2018,2018 FIFA Men's World Cup,group stage,Japan,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Mexico,3,4,-0.3333333333333333,2,1,0,3,66.66666666666666,1.0,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Morocco,2,4,-0.6666666666666666,0,2,1,3,0.0,0.6666666666666666,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Nigeria,3,4,-0.3333333333333333,1,2,0,3,33.33333333333333,1.0,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Panama,2,11,-3.0,0,3,0,3,0.0,0.6666666666666666,3.6666666666666665
+2018,2018 FIFA Men's World Cup,group stage,Peru,2,2,0.0,1,2,0,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2018,2018 FIFA Men's World Cup,group stage,Poland,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Portugal,5,4,0.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Russia,8,4,1.3333333333333333,2,1,0,3,66.66666666666666,2.6666666666666665,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Saudi Arabia,2,7,-1.6666666666666667,1,2,0,3,33.33333333333333,0.6666666666666666,2.3333333333333335
+2018,2018 FIFA Men's World Cup,group stage,Senegal,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Serbia,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,South Korea,3,3,0.0,1,2,0,3,33.33333333333333,1.0,1.0
+2018,2018 FIFA Men's World Cup,group stage,Spain,6,5,0.3333333333333333,1,0,2,3,33.33333333333333,2.0,1.6666666666666667
+2018,2018 FIFA Men's World Cup,group stage,Sweden,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2018,2018 FIFA Men's World Cup,group stage,Switzerland,5,4,0.3333333333333333,1,0,2,3,33.33333333333333,1.6666666666666667,1.3333333333333333
+2018,2018 FIFA Men's World Cup,group stage,Tunisia,5,8,-1.0,1,2,0,3,33.33333333333333,1.6666666666666667,2.6666666666666665
+2018,2018 FIFA Men's World Cup,group stage,Uruguay,5,0,1.6666666666666667,3,0,0,3,100.0,1.6666666666666667,0.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Belgium,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Brazil,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Croatia,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+2018,2018 FIFA Men's World Cup,quarter-finals,England,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2018,2018 FIFA Men's World Cup,quarter-finals,France,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Russia,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Sweden,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2018,2018 FIFA Men's World Cup,quarter-finals,Uruguay,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2018,2018 FIFA Men's World Cup,round of 16,Argentina,3,4,-1.0,0,1,0,1,0.0,3.0,4.0
+2018,2018 FIFA Men's World Cup,round of 16,Belgium,3,2,1.0,1,0,0,1,100.0,3.0,2.0
+2018,2018 FIFA Men's World Cup,round of 16,Brazil,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2018,2018 FIFA Men's World Cup,round of 16,Colombia,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,Croatia,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,Denmark,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,England,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,France,4,3,1.0,1,0,0,1,100.0,4.0,3.0
+2018,2018 FIFA Men's World Cup,round of 16,Japan,2,3,-1.0,0,1,0,1,0.0,2.0,3.0
+2018,2018 FIFA Men's World Cup,round of 16,Mexico,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2018,2018 FIFA Men's World Cup,round of 16,Portugal,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2018,2018 FIFA Men's World Cup,round of 16,Russia,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,Spain,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,Sweden,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2018,2018 FIFA Men's World Cup,round of 16,Switzerland,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2018,2018 FIFA Men's World Cup,round of 16,Uruguay,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2018,2018 FIFA Men's World Cup,semi-finals,Belgium,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2018,2018 FIFA Men's World Cup,semi-finals,Croatia,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2018,2018 FIFA Men's World Cup,semi-finals,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2018,2018 FIFA Men's World Cup,semi-finals,France,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2018,2018 FIFA Men's World Cup,third-place match,Belgium,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2018,2018 FIFA Men's World Cup,third-place match,England,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2019,2019 FIFA Women's World Cup,final,Netherlands,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2019,2019 FIFA Women's World Cup,final,United States,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2019,2019 FIFA Women's World Cup,group stage,Argentina,3,4,-0.3333333333333333,0,1,2,3,0.0,1.0,1.3333333333333333
+2019,2019 FIFA Women's World Cup,group stage,Australia,8,5,1.0,2,1,0,3,66.66666666666666,2.6666666666666665,1.6666666666666667
+2019,2019 FIFA Women's World Cup,group stage,Brazil,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+2019,2019 FIFA Women's World Cup,group stage,Cameroon,3,5,-0.6666666666666666,1,2,0,3,33.33333333333333,1.0,1.6666666666666667
+2019,2019 FIFA Women's World Cup,group stage,Canada,4,2,0.6666666666666666,2,1,0,3,66.66666666666666,1.3333333333333333,0.6666666666666666
+2019,2019 FIFA Women's World Cup,group stage,Chile,2,5,-1.0,1,2,0,3,33.33333333333333,0.6666666666666666,1.6666666666666667
+2019,2019 FIFA Women's World Cup,group stage,China,1,1,0.0,1,1,1,3,33.33333333333333,0.3333333333333333,0.3333333333333333
+2019,2019 FIFA Women's World Cup,group stage,England,5,1,1.3333333333333333,3,0,0,3,100.0,1.6666666666666667,0.3333333333333333
+2019,2019 FIFA Women's World Cup,group stage,France,7,1,2.0,3,0,0,3,100.0,2.3333333333333335,0.3333333333333333
+2019,2019 FIFA Women's World Cup,group stage,Germany,6,0,2.0,3,0,0,3,100.0,2.0,0.0
+2019,2019 FIFA Women's World Cup,group stage,Italy,7,2,1.6666666666666667,2,1,0,3,66.66666666666666,2.3333333333333335,0.6666666666666666
+2019,2019 FIFA Women's World Cup,group stage,Jamaica,1,12,-3.6666666666666665,0,3,0,3,0.0,0.3333333333333333,4.0
+2019,2019 FIFA Women's World Cup,group stage,Japan,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+2019,2019 FIFA Women's World Cup,group stage,Netherlands,6,2,1.3333333333333333,3,0,0,3,100.0,2.0,0.6666666666666666
+2019,2019 FIFA Women's World Cup,group stage,New Zealand,1,5,-1.3333333333333333,0,3,0,3,0.0,0.3333333333333333,1.6666666666666667
+2019,2019 FIFA Women's World Cup,group stage,Nigeria,2,4,-0.6666666666666666,1,2,0,3,33.33333333333333,0.6666666666666666,1.3333333333333333
+2019,2019 FIFA Women's World Cup,group stage,Norway,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+2019,2019 FIFA Women's World Cup,group stage,Scotland,5,7,-0.6666666666666666,0,2,1,3,0.0,1.6666666666666667,2.3333333333333335
+2019,2019 FIFA Women's World Cup,group stage,South Africa,1,8,-2.3333333333333335,0,3,0,3,0.0,0.3333333333333333,2.6666666666666665
+2019,2019 FIFA Women's World Cup,group stage,South Korea,1,8,-2.3333333333333335,0,3,0,3,0.0,0.3333333333333333,2.6666666666666665
+2019,2019 FIFA Women's World Cup,group stage,Spain,3,2,0.3333333333333333,1,1,1,3,33.33333333333333,1.0,0.6666666666666666
+2019,2019 FIFA Women's World Cup,group stage,Sweden,7,3,1.3333333333333333,2,1,0,3,66.66666666666666,2.3333333333333335,1.0
+2019,2019 FIFA Women's World Cup,group stage,Thailand,1,20,-6.333333333333333,0,3,0,3,0.0,0.3333333333333333,6.666666666666667
+2019,2019 FIFA Women's World Cup,group stage,United States,18,0,6.0,3,0,0,3,100.0,6.0,0.0
+2019,2019 FIFA Women's World Cup,quarter-final,England,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2019,2019 FIFA Women's World Cup,quarter-final,France,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,quarter-final,Germany,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,quarter-final,Italy,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2019,2019 FIFA Women's World Cup,quarter-final,Netherlands,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2019,2019 FIFA Women's World Cup,quarter-final,Norway,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2019,2019 FIFA Women's World Cup,quarter-final,Sweden,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,quarter-final,United States,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,Australia,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,Brazil,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,round of 16,Cameroon,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2019,2019 FIFA Women's World Cup,round of 16,Canada,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,China,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2019,2019 FIFA Women's World Cup,round of 16,England,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2019,2019 FIFA Women's World Cup,round of 16,France,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,Germany,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2019,2019 FIFA Women's World Cup,round of 16,Italy,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2019,2019 FIFA Women's World Cup,round of 16,Japan,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,round of 16,Netherlands,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,Nigeria,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2019,2019 FIFA Women's World Cup,round of 16,Norway,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2019,2019 FIFA Women's World Cup,round of 16,Spain,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,round of 16,Sweden,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2019,2019 FIFA Women's World Cup,round of 16,United States,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,semi-final,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,semi-final,Netherlands,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2019,2019 FIFA Women's World Cup,semi-final,Sweden,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2019,2019 FIFA Women's World Cup,semi-final,United States,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2019,2019 FIFA Women's World Cup,third-place match,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2019,2019 FIFA Women's World Cup,third-place match,Sweden,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2022,2022 FIFA Men's World Cup,final,Argentina,3,3,0.0,1,0,0,1,100.0,3.0,3.0
+2022,2022 FIFA Men's World Cup,final,France,3,3,0.0,0,1,0,1,0.0,3.0,3.0
+2022,2022 FIFA Men's World Cup,group stage,Argentina,5,2,1.0,2,1,0,3,66.66666666666666,1.6666666666666667,0.6666666666666666
+2022,2022 FIFA Men's World Cup,group stage,Australia,3,4,-0.3333333333333333,2,1,0,3,66.66666666666666,1.0,1.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Belgium,1,2,-0.3333333333333333,1,1,1,3,33.33333333333333,0.3333333333333333,0.6666666666666666
+2022,2022 FIFA Men's World Cup,group stage,Brazil,3,1,0.6666666666666666,2,1,0,3,66.66666666666666,1.0,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Cameroon,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Canada,2,7,-1.6666666666666667,0,3,0,3,0.0,0.6666666666666666,2.3333333333333335
+2022,2022 FIFA Men's World Cup,group stage,Costa Rica,3,11,-2.6666666666666665,1,2,0,3,33.33333333333333,1.0,3.6666666666666665
+2022,2022 FIFA Men's World Cup,group stage,Croatia,4,1,1.0,1,0,2,3,33.33333333333333,1.3333333333333333,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Denmark,1,3,-0.6666666666666666,0,2,1,3,0.0,0.3333333333333333,1.0
+2022,2022 FIFA Men's World Cup,group stage,Ecuador,4,3,0.3333333333333333,1,1,1,3,33.33333333333333,1.3333333333333333,1.0
+2022,2022 FIFA Men's World Cup,group stage,England,9,2,2.3333333333333335,2,0,1,3,66.66666666666666,3.0,0.6666666666666666
+2022,2022 FIFA Men's World Cup,group stage,France,6,3,1.0,2,1,0,3,66.66666666666666,2.0,1.0
+2022,2022 FIFA Men's World Cup,group stage,Germany,6,5,0.3333333333333333,1,1,1,3,33.33333333333333,2.0,1.6666666666666667
+2022,2022 FIFA Men's World Cup,group stage,Ghana,5,7,-0.6666666666666666,1,2,0,3,33.33333333333333,1.6666666666666667,2.3333333333333335
+2022,2022 FIFA Men's World Cup,group stage,Iran,4,7,-1.0,1,2,0,3,33.33333333333333,1.3333333333333333,2.3333333333333335
+2022,2022 FIFA Men's World Cup,group stage,Japan,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+2022,2022 FIFA Men's World Cup,group stage,Mexico,2,3,-0.3333333333333333,1,1,1,3,33.33333333333333,0.6666666666666666,1.0
+2022,2022 FIFA Men's World Cup,group stage,Morocco,4,1,1.0,2,0,1,3,66.66666666666666,1.3333333333333333,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Netherlands,5,1,1.3333333333333333,2,0,1,3,66.66666666666666,1.6666666666666667,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Poland,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2022,2022 FIFA Men's World Cup,group stage,Portugal,6,4,0.6666666666666666,2,1,0,3,66.66666666666666,2.0,1.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Qatar,1,7,-2.0,0,3,0,3,0.0,0.3333333333333333,2.3333333333333335
+2022,2022 FIFA Men's World Cup,group stage,Saudi Arabia,3,5,-0.6666666666666666,1,2,0,3,33.33333333333333,1.0,1.6666666666666667
+2022,2022 FIFA Men's World Cup,group stage,Senegal,5,4,0.3333333333333333,2,1,0,3,66.66666666666666,1.6666666666666667,1.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Serbia,5,8,-1.0,0,2,1,3,0.0,1.6666666666666667,2.6666666666666665
+2022,2022 FIFA Men's World Cup,group stage,South Korea,4,4,0.0,1,1,1,3,33.33333333333333,1.3333333333333333,1.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Spain,9,3,2.0,1,1,1,3,33.33333333333333,3.0,1.0
+2022,2022 FIFA Men's World Cup,group stage,Switzerland,4,3,0.3333333333333333,2,1,0,3,66.66666666666666,1.3333333333333333,1.0
+2022,2022 FIFA Men's World Cup,group stage,Tunisia,1,1,0.0,1,1,1,3,33.33333333333333,0.3333333333333333,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,United States,2,1,0.3333333333333333,1,0,2,3,33.33333333333333,0.6666666666666666,0.3333333333333333
+2022,2022 FIFA Men's World Cup,group stage,Uruguay,2,2,0.0,1,1,1,3,33.33333333333333,0.6666666666666666,0.6666666666666666
+2022,2022 FIFA Men's World Cup,group stage,Wales,1,6,-1.6666666666666667,0,2,1,3,0.0,0.3333333333333333,2.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Argentina,2,2,0.0,1,0,0,1,100.0,2.0,2.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Brazil,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Croatia,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2022,2022 FIFA Men's World Cup,quarter-finals,England,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2022,2022 FIFA Men's World Cup,quarter-finals,France,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Morocco,1,0,1.0,1,0,0,1,100.0,1.0,0.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Netherlands,2,2,0.0,0,1,0,1,0.0,2.0,2.0
+2022,2022 FIFA Men's World Cup,quarter-finals,Portugal,0,1,-1.0,0,1,0,1,0.0,0.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Argentina,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Australia,1,2,-1.0,0,1,0,1,0.0,1.0,2.0
+2022,2022 FIFA Men's World Cup,round of 16,Brazil,4,1,3.0,1,0,0,1,100.0,4.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Croatia,1,1,0.0,1,0,0,1,100.0,1.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,England,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2022,2022 FIFA Men's World Cup,round of 16,France,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Japan,1,1,0.0,0,1,0,1,0.0,1.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Morocco,0,0,0.0,1,0,0,1,100.0,0.0,0.0
+2022,2022 FIFA Men's World Cup,round of 16,Netherlands,3,1,2.0,1,0,0,1,100.0,3.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Poland,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2022,2022 FIFA Men's World Cup,round of 16,Portugal,6,1,5.0,1,0,0,1,100.0,6.0,1.0
+2022,2022 FIFA Men's World Cup,round of 16,Senegal,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2022,2022 FIFA Men's World Cup,round of 16,South Korea,1,4,-3.0,0,1,0,1,0.0,1.0,4.0
+2022,2022 FIFA Men's World Cup,round of 16,Spain,0,0,0.0,0,1,0,1,0.0,0.0,0.0
+2022,2022 FIFA Men's World Cup,round of 16,Switzerland,1,6,-5.0,0,1,0,1,0.0,1.0,6.0
+2022,2022 FIFA Men's World Cup,round of 16,United States,1,3,-2.0,0,1,0,1,0.0,1.0,3.0
+2022,2022 FIFA Men's World Cup,semi-finals,Argentina,3,0,3.0,1,0,0,1,100.0,3.0,0.0
+2022,2022 FIFA Men's World Cup,semi-finals,Croatia,0,3,-3.0,0,1,0,1,0.0,0.0,3.0
+2022,2022 FIFA Men's World Cup,semi-finals,France,2,0,2.0,1,0,0,1,100.0,2.0,0.0
+2022,2022 FIFA Men's World Cup,semi-finals,Morocco,0,2,-2.0,0,1,0,1,0.0,0.0,2.0
+2022,2022 FIFA Men's World Cup,third-place match,Croatia,2,1,1.0,1,0,0,1,100.0,2.0,1.0
+2022,2022 FIFA Men's World Cup,third-place match,Morocco,1,2,-1.0,0,1,0,1,0.0,1.0,2.0

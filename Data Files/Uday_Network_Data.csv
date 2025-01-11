@@ -1,0 +1,565 @@
+home_team_id,away_team_id,home_team_name,away_team_name,total_matches,total_goals,tournament_id
+T-03,T-06,Argentina,Belgium,3,4,WC-1982
+T-03,T-06,Argentina,Belgium,3,4,WC-1986
+T-03,T-06,Argentina,Belgium,3,4,WC-2014
+T-03,T-09,Argentina,Brazil,3,7,WC-1974
+T-03,T-09,Argentina,Brazil,3,7,WC-1978
+T-03,T-09,Argentina,Brazil,3,7,WC-1982
+T-03,T-10,Argentina,Bulgaria,3,5,WC-1962
+T-03,T-10,Argentina,Bulgaria,3,5,WC-1986
+T-03,T-10,Argentina,Bulgaria,3,5,WC-1994
+T-03,T-18,Argentina,Croatia,3,7,WC-1998
+T-03,T-18,Argentina,Croatia,3,7,WC-2018
+T-03,T-18,Argentina,Croatia,3,7,WC-2022
+T-03,T-28,Argentina,England,3,8,WC-1986
+T-03,T-28,Argentina,England,3,8,WC-1998
+T-03,T-28,Argentina,England,3,8,WC-2002
+T-03,T-30,Argentina,France,3,10,WC-1930
+T-03,T-30,Argentina,France,3,10,WC-1978
+T-03,T-30,Argentina,France,3,10,WC-2022
+T-03,T-31,Argentina,Germany,2,11,WC-2003
+T-03,T-31,Argentina,Germany,2,11,WC-2010
+T-03,T-36,Argentina,Hungary,2,8,WC-1978
+T-03,T-36,Argentina,Hungary,2,8,WC-1982
+T-03,T-41,Argentina,Italy,3,5,WC-1974
+T-03,T-41,Argentina,Italy,3,5,WC-1978
+T-03,T-41,Argentina,Italy,3,5,WC-1990
+T-03,T-44,Argentina,Japan,3,2,WC-1998
+T-03,T-44,Argentina,Japan,3,2,WC-2007
+T-03,T-44,Argentina,Japan,3,2,WC-2019
+T-03,T-46,Argentina,Mexico,4,18,WC-1930
+T-03,T-46,Argentina,Mexico,4,18,WC-2006
+T-03,T-46,Argentina,Mexico,4,18,WC-2010
+T-03,T-46,Argentina,Mexico,4,18,WC-2022
+T-03,T-50,Argentina,Nigeria,3,5,WC-1994
+T-03,T-50,Argentina,Nigeria,3,5,WC-2002
+T-03,T-50,Argentina,Nigeria,3,5,WC-2010
+T-03,T-71,Argentina,South Korea,2,9,WC-1986
+T-03,T-71,Argentina,South Korea,2,9,WC-2010
+T-03,T-75,Argentina,Switzerland,2,3,WC-1966
+T-03,T-75,Argentina,Switzerland,2,3,WC-2014
+T-03,T-86,Argentina,West Germany,3,9,WC-1958
+T-03,T-86,Argentina,West Germany,3,9,WC-1966
+T-03,T-86,Argentina,West Germany,3,9,WC-1986
+T-04,T-44,Australia,Japan,2,5,WC-2006
+T-04,T-44,Australia,Japan,2,5,WC-2015
+T-04,T-53,Australia,Norway,2,5,WC-2007
+T-04,T-53,Australia,Norway,2,5,WC-2011
+T-04,T-74,Australia,Sweden,2,6,WC-1999
+T-04,T-74,Australia,Sweden,2,6,WC-2015
+T-05,T-21,Austria,Czechoslovakia,2,6,WC-1954
+T-05,T-21,Austria,Czechoslovakia,2,6,WC-1990
+T-05,T-30,Austria,France,2,6,WC-1934
+T-05,T-30,Austria,France,2,6,WC-1982
+T-06,T-27,Belgium,El Salvador,2,4,WC-1970
+T-06,T-27,Belgium,El Salvador,2,4,WC-1982
+T-06,T-46,Belgium,Mexico,2,7,WC-1986
+T-06,T-46,Belgium,Mexico,2,7,WC-1998
+T-06,T-47,Belgium,Morocco,2,3,WC-1994
+T-06,T-47,Belgium,Morocco,2,3,WC-2022
+T-06,T-62,Belgium,Russia,2,6,WC-2002
+T-06,T-62,Belgium,Russia,2,6,WC-2014
+T-06,T-71,Belgium,South Korea,2,4,WC-1990
+T-06,T-71,Belgium,South Korea,2,4,WC-1998
+T-09,T-04,Brazil,Australia,4,9,WC-2006
+T-09,T-04,Brazil,Australia,4,9,WC-2007
+T-09,T-04,Brazil,Australia,4,9,WC-2011
+T-09,T-04,Brazil,Australia,4,9,WC-2015
+T-09,T-05,Brazil,Austria,2,4,WC-1958
+T-09,T-05,Brazil,Austria,2,4,WC-1978
+T-09,T-06,Brazil,Belgium,2,5,WC-2002
+T-09,T-06,Brazil,Belgium,2,5,WC-2018
+T-09,T-13,Brazil,Chile,4,16,WC-1962
+T-09,T-13,Brazil,Chile,4,16,WC-1998
+T-09,T-13,Brazil,Chile,4,16,WC-2010
+T-09,T-13,Brazil,Chile,4,16,WC-2014
+T-09,T-14,Brazil,China,2,8,WC-2002
+T-09,T-14,Brazil,China,2,8,WC-2007
+T-09,T-17,Brazil,Costa Rica,2,3,WC-1990
+T-09,T-17,Brazil,Costa Rica,2,3,WC-2018
+T-09,T-18,Brazil,Croatia,2,5,WC-2006
+T-09,T-18,Brazil,Croatia,2,5,WC-2014
+T-09,T-21,Brazil,Czechoslovakia,5,14,WC-1938
+T-09,T-21,Brazil,Czechoslovakia,5,14,WC-1962
+T-09,T-21,Brazil,Czechoslovakia,5,14,WC-1970
+T-09,T-22,Brazil,Denmark,2,6,WC-1998
+T-09,T-22,Brazil,Denmark,2,6,WC-2007
+T-09,T-28,Brazil,England,3,5,WC-1958
+T-09,T-28,Brazil,England,3,5,WC-1962
+T-09,T-28,Brazil,England,3,5,WC-1970
+T-09,T-30,Brazil,France,4,13,WC-1958
+T-09,T-30,Brazil,France,4,13,WC-1986
+T-09,T-30,Brazil,France,4,13,WC-1998
+T-09,T-30,Brazil,France,4,13,WC-2006
+T-09,T-31,Brazil,Germany,2,15,WC-1995
+T-09,T-31,Brazil,Germany,2,15,WC-2014
+T-09,T-41,Brazil,Italy,4,10,WC-1970
+T-09,T-41,Brazil,Italy,4,10,WC-1978
+T-09,T-41,Brazil,Italy,4,10,WC-1994
+T-09,T-41,Brazil,Italy,4,10,WC-1999
+T-09,T-46,Brazil,Mexico,6,21,WC-1950
+T-09,T-46,Brazil,Mexico,6,21,WC-1954
+T-09,T-46,Brazil,Mexico,6,21,WC-1962
+T-09,T-46,Brazil,Mexico,6,21,WC-1999
+T-09,T-46,Brazil,Mexico,6,21,WC-2014
+T-09,T-46,Brazil,Mexico,6,21,WC-2018
+T-09,T-48,Brazil,Netherlands,2,5,WC-1998
+T-09,T-48,Brazil,Netherlands,2,5,WC-2014
+T-09,T-53,Brazil,Norway,3,6,WC-1998
+T-09,T-53,Brazil,Norway,3,6,WC-1999
+T-09,T-53,Brazil,Norway,3,6,WC-2011
+T-09,T-56,Brazil,Peru,2,9,WC-1970
+T-09,T-56,Brazil,Peru,2,9,WC-1978
+T-09,T-57,Brazil,Poland,4,20,WC-1938
+T-09,T-57,Brazil,Poland,4,20,WC-1974
+T-09,T-57,Brazil,Poland,4,20,WC-1978
+T-09,T-57,Brazil,Poland,4,20,WC-1986
+T-09,T-64,Brazil,Scotland,3,9,WC-1982
+T-09,T-64,Brazil,Scotland,3,9,WC-1990
+T-09,T-64,Brazil,Scotland,3,9,WC-1998
+T-09,T-71,Brazil,South Korea,3,10,WC-2003
+T-09,T-71,Brazil,South Korea,3,10,WC-2015
+T-09,T-71,Brazil,South Korea,3,10,WC-2022
+T-09,T-72,Brazil,Soviet Union,2,5,WC-1958
+T-09,T-72,Brazil,Soviet Union,2,5,WC-1982
+T-09,T-73,Brazil,Spain,4,11,WC-1950
+T-09,T-73,Brazil,Spain,4,11,WC-1962
+T-09,T-73,Brazil,Spain,4,11,WC-1978
+T-09,T-73,Brazil,Spain,4,11,WC-2015
+T-09,T-74,Brazil,Sweden,8,33,WC-1938
+T-09,T-74,Brazil,Sweden,8,33,WC-1950
+T-09,T-74,Brazil,Sweden,8,33,WC-1958
+T-09,T-74,Brazil,Sweden,8,33,WC-1978
+T-09,T-74,Brazil,Sweden,8,33,WC-1990
+T-09,T-74,Brazil,Sweden,8,33,WC-1991
+T-09,T-74,Brazil,Sweden,8,33,WC-1994
+T-09,T-74,Brazil,Sweden,8,33,WC-2003
+T-09,T-75,Brazil,Switzerland,3,7,WC-1950
+T-09,T-75,Brazil,Switzerland,3,7,WC-2018
+T-09,T-75,Brazil,Switzerland,3,7,WC-2022
+T-09,T-80,Brazil,Turkey,2,4,WC-2002
+T-09,T-83,Brazil,United States,3,10,WC-1991
+T-09,T-83,Brazil,United States,3,10,WC-1994
+T-09,T-83,Brazil,United States,3,10,WC-2011
+T-09,T-87,Brazil,Yugoslavia,3,4,WC-1950
+T-09,T-87,Brazil,Yugoslavia,3,4,WC-1954
+T-09,T-87,Brazil,Yugoslavia,3,4,WC-1974
+T-10,T-41,Bulgaria,Italy,2,5,WC-1986
+T-10,T-41,Bulgaria,Italy,2,5,WC-1994
+T-11,T-09,Cameroon,Brazil,2,6,WC-2014
+T-11,T-09,Cameroon,Brazil,2,6,WC-2022
+T-12,T-30,Canada,France,2,5,WC-1986
+T-12,T-30,Canada,France,2,5,WC-2011
+T-12,T-49,Canada,New Zealand,2,2,WC-2015
+T-12,T-49,Canada,New Zealand,2,2,WC-2019
+T-13,T-05,Chile,Austria,2,3,WC-1982
+T-13,T-05,Chile,Austria,2,3,WC-1998
+T-13,T-75,Chile,Switzerland,2,5,WC-1962
+T-13,T-75,Chile,Switzerland,2,5,WC-2010
+T-14,T-04,China,Australia,3,12,WC-1995
+T-14,T-04,China,Australia,3,12,WC-1999
+T-14,T-04,China,Australia,3,12,WC-2003
+T-14,T-22,China,Denmark,3,13,WC-1991
+T-14,T-22,China,Denmark,3,13,WC-1995
+T-14,T-22,China,Denmark,3,13,WC-2007
+T-14,T-32,China,Ghana,2,8,WC-1999
+T-14,T-32,China,Ghana,2,8,WC-2003
+T-14,T-49,China,New Zealand,3,11,WC-1991
+T-14,T-49,China,New Zealand,3,11,WC-2007
+T-14,T-49,China,New Zealand,3,11,WC-2015
+T-14,T-62,China,Russia,2,3,WC-1999
+T-14,T-62,China,Russia,2,3,WC-2003
+T-14,T-74,China,Sweden,2,4,WC-1991
+T-14,T-74,China,Sweden,2,4,WC-1999
+T-14,T-83,China,United States,2,3,WC-1995
+T-14,T-83,China,United States,2,3,WC-2015
+T-16,T-28,Colombia,England,2,4,WC-1998
+T-16,T-28,Colombia,England,2,4,WC-2018
+T-17,T-09,Costa Rica,Brazil,2,8,WC-2002
+T-17,T-09,Costa Rica,Brazil,2,8,WC-2015
+T-18,T-46,Croatia,Mexico,2,5,WC-2002
+T-18,T-46,Croatia,Mexico,2,5,WC-2014
+T-19,T-61,Cuba,Romania,2,9,WC-1938
+T-22,T-04,Denmark,Australia,2,7,WC-1995
+T-22,T-04,Denmark,Australia,2,7,WC-2018
+T-22,T-30,Denmark,France,2,2,WC-2002
+T-22,T-30,Denmark,France,2,2,WC-2018
+T-22,T-49,Denmark,New Zealand,2,5,WC-1991
+T-22,T-49,Denmark,New Zealand,2,5,WC-2007
+T-28,T-03,England,Argentina,4,13,WC-1962
+T-28,T-03,England,Argentina,4,13,WC-1966
+T-28,T-03,England,Argentina,4,13,WC-2007
+T-28,T-03,England,Argentina,4,13,WC-2019
+T-28,T-06,England,Belgium,3,10,WC-1954
+T-28,T-06,England,Belgium,3,10,WC-1990
+T-28,T-06,England,Belgium,3,10,WC-2018
+T-28,T-12,England,Canada,2,8,WC-1995
+T-28,T-12,England,Canada,2,8,WC-2015
+T-28,T-21,England,Czechoslovakia,2,3,WC-1970
+T-28,T-21,England,Czechoslovakia,2,3,WC-1982
+T-28,T-30,England,France,4,11,WC-1966
+T-28,T-30,England,France,4,11,WC-1982
+T-28,T-30,England,France,4,11,WC-2011
+T-28,T-30,England,France,4,11,WC-2022
+T-28,T-46,England,Mexico,2,5,WC-1966
+T-28,T-46,England,Mexico,2,5,WC-2015
+T-28,T-55,England,Paraguay,2,4,WC-1986
+T-28,T-55,England,Paraguay,2,4,WC-2006
+T-28,T-58,England,Portugal,2,3,WC-1966
+T-28,T-58,England,Portugal,2,3,WC-2006
+T-28,T-74,England,Sweden,2,5,WC-2002
+T-28,T-74,England,Sweden,2,5,WC-2019
+T-28,T-83,England,United States,3,5,WC-2010
+T-28,T-83,England,United States,3,5,WC-2019
+T-28,T-83,England,United States,3,5,WC-2022
+T-30,T-04,France,Australia,2,8,WC-2018
+T-30,T-04,France,Australia,2,8,WC-2022
+T-30,T-06,France,Belgium,2,5,WC-1938
+T-30,T-06,France,Belgium,2,5,WC-2018
+T-30,T-09,France,Brazil,2,5,WC-2003
+T-30,T-09,France,Brazil,2,5,WC-2019
+T-30,T-18,France,Croatia,2,9,WC-1998
+T-30,T-18,France,Croatia,2,9,WC-2018
+T-30,T-22,France,Denmark,2,6,WC-1998
+T-30,T-22,France,Denmark,2,6,WC-2022
+T-30,T-31,France,Germany,2,7,WC-2011
+T-30,T-31,France,Germany,2,7,WC-2014
+T-30,T-46,France,Mexico,4,14,WC-1930
+T-30,T-46,France,Mexico,4,14,WC-1954
+T-30,T-46,France,Mexico,4,14,WC-1966
+T-30,T-46,France,Mexico,4,14,WC-2010
+T-30,T-52,France,Northern Ireland,2,9,WC-1958
+T-30,T-52,France,Northern Ireland,2,9,WC-1982
+T-30,T-55,France,Paraguay,2,11,WC-1958
+T-30,T-55,France,Paraguay,2,11,WC-1998
+T-30,T-70,France,South Africa,2,6,WC-1998
+T-30,T-70,France,South Africa,2,6,WC-2010
+T-30,T-71,France,South Korea,4,10,WC-2003
+T-30,T-71,France,South Korea,4,10,WC-2006
+T-30,T-71,France,South Korea,4,10,WC-2015
+T-30,T-71,France,South Korea,4,10,WC-2019
+T-30,T-83,France,United States,2,7,WC-2011
+T-30,T-83,France,United States,2,7,WC-2019
+T-30,T-86,France,West Germany,2,11,WC-1958
+T-30,T-86,France,West Germany,2,11,WC-1986
+T-31,T-03,Germany,Argentina,3,14,WC-2006
+T-31,T-03,Germany,Argentina,3,14,WC-2007
+T-31,T-03,Germany,Argentina,3,14,WC-2014
+T-31,T-06,Germany,Belgium,2,12,WC-1934
+T-31,T-06,Germany,Belgium,2,12,WC-1994
+T-31,T-09,Germany,Brazil,3,10,WC-1999
+T-31,T-09,Germany,Brazil,3,10,WC-2002
+T-31,T-09,Germany,Brazil,3,10,WC-2007
+T-31,T-12,Germany,Canada,2,8,WC-2003
+T-31,T-12,Germany,Canada,2,8,WC-2011
+T-31,T-14,Germany,China,2,2,WC-1995
+T-31,T-14,Germany,China,2,2,WC-2019
+T-31,T-28,Germany,England,3,9,WC-1995
+T-31,T-28,Germany,England,3,9,WC-2010
+T-31,T-28,Germany,England,3,9,WC-2015
+T-31,T-41,Germany,Italy,2,4,WC-1999
+T-31,T-41,Germany,Italy,2,4,WC-2006
+T-31,T-44,Germany,Japan,5,10,WC-1995
+T-31,T-44,Germany,Japan,5,10,WC-2003
+T-31,T-44,Germany,Japan,5,10,WC-2007
+T-31,T-44,Germany,Japan,5,10,WC-2011
+T-31,T-44,Germany,Japan,5,10,WC-2022
+T-31,T-46,Germany,Mexico,3,10,WC-1998
+T-31,T-46,Germany,Mexico,3,10,WC-1999
+T-31,T-46,Germany,Mexico,3,10,WC-2018
+T-31,T-50,Germany,Nigeria,3,8,WC-1991
+T-31,T-50,Germany,Nigeria,3,8,WC-2011
+T-31,T-50,Germany,Nigeria,3,8,WC-2019
+T-31,T-53,Germany,Norway,3,7,WC-1995
+T-31,T-53,Germany,Norway,3,7,WC-2007
+T-31,T-53,Germany,Norway,3,7,WC-2015
+T-31,T-58,Germany,Portugal,2,8,WC-2006
+T-31,T-58,Germany,Portugal,2,8,WC-2014
+T-31,T-71,Germany,South Korea,2,6,WC-1994
+T-31,T-71,Germany,South Korea,2,6,WC-2002
+T-31,T-73,Germany,Spain,3,4,WC-1994
+T-31,T-73,Germany,Spain,3,4,WC-2010
+T-31,T-73,Germany,Spain,3,4,WC-2019
+T-31,T-74,Germany,Sweden,6,19,WC-1934
+T-31,T-74,Germany,Sweden,6,19,WC-2003
+T-31,T-74,Germany,Sweden,6,19,WC-2006
+T-31,T-74,Germany,Sweden,6,19,WC-2015
+T-31,T-74,Germany,Sweden,6,19,WC-2018
+T-31,T-74,Germany,Sweden,6,19,WC-2019
+T-31,T-83,Germany,United States,3,10,WC-1991
+T-31,T-83,Germany,United States,3,10,WC-1998
+T-31,T-83,Germany,United States,3,10,WC-2002
+T-32,T-04,Ghana,Australia,3,10,WC-2003
+T-32,T-04,Ghana,Australia,3,10,WC-2007
+T-32,T-04,Ghana,Australia,3,10,WC-2010
+T-32,T-83,Ghana,United States,2,6,WC-2006
+T-32,T-83,Ghana,United States,2,6,WC-2014
+T-33,T-50,Greece,Nigeria,2,5,WC-1994
+T-33,T-50,Greece,Nigeria,2,5,WC-2010
+T-36,T-09,Hungary,Brazil,2,10,WC-1954
+T-36,T-09,Hungary,Brazil,2,10,WC-1966
+T-36,T-10,Hungary,Bulgaria,2,11,WC-1962
+T-36,T-10,Hungary,Bulgaria,2,11,WC-1966
+T-41,T-03,Italy,Argentina,2,5,WC-1982
+T-41,T-03,Italy,Argentina,2,5,WC-1986
+T-41,T-05,Italy,Austria,4,6,WC-1934
+T-41,T-05,Italy,Austria,4,6,WC-1978
+T-41,T-05,Italy,Austria,4,6,WC-1990
+T-41,T-05,Italy,Austria,4,6,WC-1998
+T-41,T-09,Italy,Brazil,3,9,WC-1938
+T-41,T-09,Italy,Brazil,3,9,WC-1982
+T-41,T-09,Italy,Brazil,3,9,WC-2019
+T-41,T-11,Italy,Cameroon,2,5,WC-1982
+T-41,T-11,Italy,Cameroon,2,5,WC-1998
+T-41,T-13,Italy,Chile,2,6,WC-1966
+T-41,T-13,Italy,Chile,2,6,WC-1998
+T-41,T-21,Italy,Czechoslovakia,2,5,WC-1934
+T-41,T-21,Italy,Czechoslovakia,2,5,WC-1990
+T-41,T-30,Italy,France,5,11,WC-1938
+T-41,T-30,Italy,France,5,11,WC-1978
+T-41,T-30,Italy,France,5,11,WC-1986
+T-41,T-30,Italy,France,5,11,WC-1998
+T-41,T-30,Italy,France,5,11,WC-2006
+T-41,T-36,Italy,Hungary,2,10,WC-1938
+T-41,T-36,Italy,Hungary,2,10,WC-1978
+T-41,T-46,Italy,Mexico,2,7,WC-1970
+T-41,T-46,Italy,Mexico,2,7,WC-1994
+T-41,T-48,Italy,Netherlands,2,5,WC-1978
+T-41,T-48,Italy,Netherlands,2,5,WC-2019
+T-41,T-53,Italy,Norway,3,5,WC-1938
+T-41,T-53,Italy,Norway,3,5,WC-1994
+T-41,T-53,Italy,Norway,3,5,WC-1998
+T-41,T-55,Italy,Paraguay,2,4,WC-1950
+T-41,T-55,Italy,Paraguay,2,4,WC-2010
+T-41,T-73,Italy,Spain,3,6,WC-1934
+T-41,T-73,Italy,Spain,3,6,WC-1994
+T-41,T-83,Italy,United States,3,11,WC-1934
+T-41,T-83,Italy,United States,3,11,WC-1990
+T-41,T-83,Italy,United States,3,11,WC-2006
+T-41,T-84,Italy,Uruguay,2,3,WC-1990
+T-41,T-84,Italy,Uruguay,2,3,WC-2014
+T-41,T-86,Italy,West Germany,3,11,WC-1970
+T-41,T-86,Italy,West Germany,3,11,WC-1978
+T-41,T-86,Italy,West Germany,3,11,WC-1982
+T-44,T-09,Japan,Brazil,2,6,WC-1991
+T-44,T-09,Japan,Brazil,2,6,WC-2006
+T-44,T-11,Japan,Cameroon,2,4,WC-2010
+T-44,T-11,Japan,Cameroon,2,4,WC-2015
+T-44,T-18,Japan,Croatia,3,3,WC-1998
+T-44,T-18,Japan,Croatia,3,3,WC-2006
+T-44,T-18,Japan,Croatia,3,3,WC-2022
+T-44,T-28,Japan,England,3,9,WC-2007
+T-44,T-28,Japan,England,3,9,WC-2015
+T-44,T-28,Japan,England,3,9,WC-2019
+T-44,T-62,Japan,Russia,2,6,WC-1999
+T-44,T-62,Japan,Russia,2,6,WC-2002
+T-44,T-74,Japan,Sweden,2,12,WC-1991
+T-44,T-74,Japan,Sweden,2,12,WC-2011
+T-44,T-83,Japan,United States,3,11,WC-1991
+T-44,T-83,Japan,United States,3,11,WC-1995
+T-44,T-83,Japan,United States,3,11,WC-2011
+T-46,T-10,Mexico,Bulgaria,2,4,WC-1986
+T-46,T-10,Mexico,Bulgaria,2,4,WC-1994
+T-46,T-41,Mexico,Italy,2,4,WC-1999
+T-46,T-41,Mexico,Italy,2,4,WC-2002
+T-46,T-84,Mexico,Uruguay,2,1,WC-1966
+T-46,T-84,Mexico,Uruguay,2,1,WC-2010
+T-48,T-03,Netherlands,Argentina,5,11,WC-1974
+T-48,T-03,Netherlands,Argentina,5,11,WC-1998
+T-48,T-03,Netherlands,Argentina,5,11,WC-2006
+T-48,T-03,Netherlands,Argentina,5,11,WC-2014
+T-48,T-03,Netherlands,Argentina,5,11,WC-2022
+T-48,T-09,Netherlands,Brazil,3,10,WC-1974
+T-48,T-09,Netherlands,Brazil,3,10,WC-1994
+T-48,T-09,Netherlands,Brazil,3,10,WC-2010
+T-48,T-12,Netherlands,Canada,2,5,WC-2015
+T-48,T-12,Netherlands,Canada,2,5,WC-2019
+T-48,T-44,Netherlands,Japan,2,4,WC-2010
+T-48,T-44,Netherlands,Japan,2,4,WC-2019
+T-48,T-46,Netherlands,Mexico,2,7,WC-1998
+T-48,T-46,Netherlands,Mexico,2,7,WC-2014
+T-48,T-74,Netherlands,Sweden,2,1,WC-1974
+T-48,T-74,Netherlands,Sweden,2,1,WC-2019
+T-48,T-86,Netherlands,West Germany,2,7,WC-1974
+T-48,T-86,Netherlands,West Germany,2,7,WC-1978
+T-49,T-48,New Zealand,Netherlands,2,2,WC-2015
+T-49,T-48,New Zealand,Netherlands,2,2,WC-2019
+T-50,T-03,Nigeria,Argentina,2,8,WC-2014
+T-50,T-03,Nigeria,Argentina,2,8,WC-2018
+T-50,T-10,Nigeria,Bulgaria,2,4,WC-1994
+T-50,T-10,Nigeria,Bulgaria,2,4,WC-1998
+T-50,T-22,Nigeria,Denmark,2,7,WC-1998
+T-50,T-22,Nigeria,Denmark,2,7,WC-1999
+T-50,T-28,Nigeria,England,2,5,WC-1995
+T-50,T-28,Nigeria,England,2,5,WC-2002
+T-50,T-30,Nigeria,France,2,2,WC-2011
+T-50,T-30,Nigeria,France,2,2,WC-2019
+T-50,T-71,Nigeria,South Korea,2,6,WC-2010
+T-50,T-71,Nigeria,South Korea,2,6,WC-2019
+T-50,T-83,Nigeria,United States,2,2,WC-2007
+T-50,T-83,Nigeria,United States,2,2,WC-2015
+T-51,T-50,North Korea,Nigeria,2,5,WC-1999
+T-51,T-50,North Korea,Nigeria,2,5,WC-2007
+T-51,T-74,North Korea,Sweden,2,4,WC-2007
+T-51,T-74,North Korea,Sweden,2,4,WC-2011
+T-52,T-21,Northern Ireland,Czechoslovakia,2,4,WC-1958
+T-53,T-12,Norway,Canada,3,18,WC-1995
+T-53,T-12,Norway,Canada,3,18,WC-1999
+T-53,T-12,Norway,Canada,3,18,WC-2007
+T-53,T-14,Norway,China,2,6,WC-1999
+T-53,T-14,Norway,China,2,6,WC-2007
+T-53,T-22,Norway,Denmark,2,7,WC-1991
+T-53,T-22,Norway,Denmark,2,7,WC-1995
+T-53,T-28,Norway,England,3,8,WC-1995
+T-53,T-28,Norway,England,3,8,WC-2015
+T-53,T-28,Norway,England,3,8,WC-2019
+T-53,T-50,Norway,Nigeria,2,11,WC-1995
+T-53,T-50,Norway,Nigeria,2,11,WC-2019
+T-53,T-83,Norway,United States,2,8,WC-1991
+T-53,T-83,Norway,United States,2,8,WC-2007
+T-55,T-06,Paraguay,Belgium,2,5,WC-1930
+T-55,T-06,Paraguay,Belgium,2,5,WC-1986
+T-57,T-03,Poland,Argentina,2,7,WC-1974
+T-57,T-03,Poland,Argentina,2,7,WC-2022
+T-57,T-41,Poland,Italy,2,5,WC-1974
+T-57,T-41,Poland,Italy,2,5,WC-1982
+T-58,T-09,Portugal,Brazil,2,4,WC-1966
+T-58,T-09,Portugal,Brazil,2,4,WC-2010
+T-58,T-32,Portugal,Ghana,2,8,WC-2014
+T-58,T-32,Portugal,Ghana,2,8,WC-2022
+T-58,T-47,Portugal,Morocco,2,5,WC-1986
+T-58,T-47,Portugal,Morocco,2,5,WC-2018
+T-58,T-51,Portugal,North Korea,2,15,WC-1966
+T-58,T-51,Portugal,North Korea,2,15,WC-2010
+T-66,T-75,Serbia,Switzerland,2,8,WC-2018
+T-66,T-75,Serbia,Switzerland,2,8,WC-2022
+T-71,T-41,South Korea,Italy,2,8,WC-1986
+T-71,T-41,South Korea,Italy,2,8,WC-2002
+T-71,T-46,South Korea,Mexico,2,7,WC-1998
+T-71,T-46,South Korea,Mexico,2,7,WC-2018
+T-71,T-53,South Korea,Norway,2,11,WC-2003
+T-71,T-53,South Korea,Norway,2,11,WC-2019
+T-71,T-73,South Korea,Spain,2,7,WC-1990
+T-71,T-73,South Korea,Spain,2,7,WC-2015
+T-72,T-06,Soviet Union,Belgium,2,12,WC-1970
+T-72,T-06,Soviet Union,Belgium,2,12,WC-1986
+T-72,T-28,Soviet Union,England,2,5,WC-1958
+T-72,T-36,Soviet Union,Hungary,2,9,WC-1966
+T-72,T-36,Soviet Union,Hungary,2,9,WC-1986
+T-72,T-84,Soviet Union,Uruguay,2,4,WC-1962
+T-72,T-84,Soviet Union,Uruguay,2,4,WC-1970
+T-73,T-09,Spain,Brazil,2,5,WC-1934
+T-73,T-09,Spain,Brazil,2,5,WC-1986
+T-73,T-13,Spain,Chile,2,4,WC-1950
+T-73,T-13,Spain,Chile,2,4,WC-2014
+T-73,T-17,Spain,Costa Rica,2,9,WC-2015
+T-73,T-17,Spain,Costa Rica,2,9,WC-2022
+T-73,T-28,Spain,England,2,1,WC-1950
+T-73,T-28,Spain,England,2,1,WC-1982
+T-73,T-35,Spain,Honduras,2,4,WC-1982
+T-73,T-35,Spain,Honduras,2,4,WC-2010
+T-73,T-55,Spain,Paraguay,2,4,WC-1998
+T-73,T-55,Spain,Paraguay,2,4,WC-2002
+T-73,T-71,Spain,South Korea,2,4,WC-1994
+T-73,T-71,Spain,South Korea,2,4,WC-2002
+T-73,T-75,Spain,Switzerland,3,7,WC-1966
+T-73,T-75,Spain,Switzerland,3,7,WC-1994
+T-73,T-75,Spain,Switzerland,3,7,WC-2010
+T-73,T-83,Spain,United States,2,7,WC-1950
+T-73,T-83,Spain,United States,2,7,WC-2019
+T-73,T-87,Spain,Yugoslavia,2,6,WC-1982
+T-73,T-87,Spain,Yugoslavia,2,6,WC-1990
+T-74,T-03,Sweden,Argentina,2,7,WC-1934
+T-74,T-03,Sweden,Argentina,2,7,WC-2002
+T-74,T-09,Sweden,Brazil,2,2,WC-1994
+T-74,T-09,Sweden,Brazil,2,2,WC-1995
+T-74,T-10,Sweden,Bulgaria,2,4,WC-1974
+T-74,T-10,Sweden,Bulgaria,2,4,WC-1994
+T-74,T-12,Sweden,Canada,2,4,WC-2003
+T-74,T-12,Sweden,Canada,2,4,WC-2019
+T-74,T-28,Sweden,England,2,6,WC-2006
+T-74,T-28,Sweden,England,2,6,WC-2018
+T-74,T-31,Sweden,Germany,2,9,WC-1991
+T-74,T-31,Sweden,Germany,2,9,WC-1995
+T-74,T-50,Sweden,Nigeria,3,12,WC-2002
+T-74,T-50,Sweden,Nigeria,3,12,WC-2003
+T-74,T-50,Sweden,Nigeria,3,12,WC-2015
+T-74,T-55,Sweden,Paraguay,2,5,WC-1950
+T-74,T-55,Sweden,Paraguay,2,5,WC-2006
+T-74,T-83,Sweden,United States,4,12,WC-1991
+T-74,T-83,Sweden,United States,4,12,WC-2007
+T-74,T-83,Sweden,United States,4,12,WC-2011
+T-74,T-83,Sweden,United States,4,12,WC-2019
+T-74,T-84,Sweden,Uruguay,2,4,WC-1970
+T-74,T-84,Sweden,Uruguay,2,4,WC-1974
+T-75,T-11,Switzerland,Cameroon,2,4,WC-2015
+T-75,T-11,Switzerland,Cameroon,2,4,WC-2022
+T-75,T-25,Switzerland,Ecuador,2,14,WC-2014
+T-75,T-25,Switzerland,Ecuador,2,14,WC-2015
+T-75,T-31,Switzerland,Germany,2,8,WC-1938
+T-75,T-41,Switzerland,Italy,2,8,WC-1954
+T-83,T-04,United States,Australia,2,9,WC-1995
+T-83,T-04,United States,Australia,2,9,WC-2015
+T-83,T-09,United States,Brazil,2,6,WC-1999
+T-83,T-09,United States,Brazil,2,6,WC-2007
+T-83,T-14,United States,China,2,6,WC-1995
+T-83,T-14,United States,China,2,6,WC-1999
+T-83,T-16,United States,Colombia,3,8,WC-1994
+T-83,T-16,United States,Colombia,3,8,WC-2011
+T-83,T-16,United States,Colombia,3,8,WC-2015
+T-83,T-22,United States,Denmark,2,5,WC-1995
+T-83,T-22,United States,Denmark,2,5,WC-1999
+T-83,T-28,United States,England,2,4,WC-1950
+T-83,T-28,United States,England,2,4,WC-2007
+T-83,T-31,United States,Germany,4,11,WC-1999
+T-83,T-31,United States,Germany,4,11,WC-2003
+T-83,T-31,United States,Germany,4,11,WC-2014
+T-83,T-31,United States,Germany,4,11,WC-2015
+T-83,T-50,United States,Nigeria,2,13,WC-1999
+T-83,T-50,United States,Nigeria,2,13,WC-2003
+T-83,T-51,United States,North Korea,3,9,WC-1999
+T-83,T-51,United States,North Korea,3,9,WC-2007
+T-83,T-51,United States,North Korea,3,9,WC-2011
+T-83,T-53,United States,Norway,2,2,WC-1995
+T-83,T-53,United States,Norway,2,2,WC-2003
+T-83,T-58,United States,Portugal,2,9,WC-2002
+T-83,T-58,United States,Portugal,2,9,WC-2014
+T-83,T-74,United States,Sweden,2,4,WC-2003
+T-83,T-74,United States,Sweden,2,4,WC-2015
+T-84,T-28,Uruguay,England,2,9,WC-1954
+T-84,T-28,Uruguay,England,2,9,WC-2014
+T-84,T-30,Uruguay,France,3,5,WC-1966
+T-84,T-30,Uruguay,France,3,5,WC-2010
+T-84,T-30,Uruguay,France,3,5,WC-2018
+T-84,T-48,Uruguay,Netherlands,2,7,WC-1974
+T-84,T-48,Uruguay,Netherlands,2,7,WC-2010
+T-84,T-71,Uruguay,South Korea,2,3,WC-2010
+T-84,T-71,Uruguay,South Korea,2,3,WC-2022
+T-84,T-73,Uruguay,Spain,2,4,WC-1950
+T-84,T-73,Uruguay,Spain,2,4,WC-1990
+T-86,T-05,West Germany,Austria,2,8,WC-1954
+T-86,T-05,West Germany,Austria,2,8,WC-1982
+T-86,T-13,West Germany,Chile,3,8,WC-1962
+T-86,T-13,West Germany,Chile,3,8,WC-1974
+T-86,T-13,West Germany,Chile,3,8,WC-1982
+T-86,T-28,West Germany,England,3,7,WC-1970
+T-86,T-28,West Germany,England,3,7,WC-1982
+T-86,T-28,West Germany,England,3,7,WC-1990
+T-86,T-46,West Germany,Mexico,2,6,WC-1978
+T-86,T-46,West Germany,Mexico,2,6,WC-1986
+T-86,T-73,West Germany,Spain,2,6,WC-1966
+T-86,T-73,West Germany,Spain,2,6,WC-1982
+T-86,T-75,West Germany,Switzerland,2,8,WC-1962
+T-86,T-75,West Germany,Switzerland,2,8,WC-1966
+T-86,T-80,West Germany,Turkey,2,14,WC-1954
+T-86,T-84,West Germany,Uruguay,2,5,WC-1966
+T-86,T-84,West Germany,Uruguay,2,5,WC-1970
+T-86,T-87,West Germany,Yugoslavia,3,8,WC-1954
+T-86,T-87,West Germany,Yugoslavia,3,8,WC-1958
+T-86,T-87,West Germany,Yugoslavia,3,8,WC-1990
+T-87,T-16,Yugoslavia,Colombia,2,6,WC-1962
+T-87,T-16,Yugoslavia,Colombia,2,6,WC-1990
+T-87,T-30,Yugoslavia,France,2,6,WC-1954
+T-87,T-30,Yugoslavia,France,2,6,WC-1958
+T-87,T-86,Yugoslavia,West Germany,2,3,WC-1962
+T-87,T-86,Yugoslavia,West Germany,2,3,WC-1974
